@@ -1,0 +1,21 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1as-HU-cva"; */
+"1as-HU-cva.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "fps"; ObjectID = "FAh-uK-8M3"; */
+"FAh-uK-8M3.title" = "fps";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "fGI-a1-Bos"; */
+"fGI-a1-Bos.title" = "宽度：";
+
+/* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "ipt-SG-Dsu"; */
+"ipt-SG-Dsu.title" = "预设：";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "m9O-DW-50A"; */
+"m9O-DW-50A.title" = "更新";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "msh-hx-xIk"; */
+"msh-hx-xIk.title" = "高度：";
+
+/* Class = "NSTextFieldCell"; title = "Timeline Framerate:"; ObjectID = "wb9-Fu-KAn"; */
+"wb9-Fu-KAn.title" = "帧率：";
+

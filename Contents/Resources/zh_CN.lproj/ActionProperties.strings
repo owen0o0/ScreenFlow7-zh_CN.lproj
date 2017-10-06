@@ -1,0 +1,84 @@
+/* Class = "NSTextFieldCell"; title = "Preview:"; ObjectID = "0pj-1L-RiT"; */
+"0pj-1L-RiT.title" = "预览：";
+
+/* Class = "NSButtonCell"; title = "Rotation"; ObjectID = "4sV-MH-VVS"; */
+"4sV-MH-VVS.title" = "旋转";
+
+/* Class = "NSTextFieldCell"; title = "Apply to:"; ObjectID = "8hu-GE-uzb"; */
+"8hu-GE-uzb.title" = "应用：";
+
+/* Class = "NSTextFieldCell"; title = "Damping:"; ObjectID = "C5i-od-2iG"; */
+"C5i-od-2iG.title" = "阻尼：";
+
+/* Class = "NSButtonCell"; title = "Scale"; ObjectID = "Drj-pu-tbI"; */
+"Drj-pu-tbI.title" = "缩放";
+
+/* Class = "NSButtonCell"; title = "Lock to:"; ObjectID = "IoW-28-Bdj"; */
+"IoW-28-Bdj.title" = "修正：";
+
+/* Class = "NSTextFieldCell"; title = "Elasticity:"; ObjectID = "JgD-h1-QZu"; */
+"JgD-h1-QZu.title" = "弹性：";
+
+/* Class = "NSButtonCell"; title = "Position"; ObjectID = "KeG-77-YvG"; */
+"KeG-77-YvG.title" = "位置";
+
+/* Class = "NSTextFieldCell"; title = "Pulse Count:"; ObjectID = "M0j-7g-hPd"; */
+"M0j-7g-hPd.title" = "脉冲数：";
+
+/* Class = "NSTextFieldCell"; title = "Apply to:"; ObjectID = "Nkt-AH-ISk"; */
+"Nkt-AH-ISk.title" = "应用：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = " "; ObjectID = "Nrt-qN-FF1"; */
+"Nrt-qN-FF1.ibShadowedIsNilPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = " "; ObjectID = "Nrt-qN-FF1"; */
+"Nrt-qN-FF1.ibShadowedMultipleValuesPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "Nrt-qN-FF1"; */
+"Nrt-qN-FF1.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "Nrt-qN-FF1"; */
+"Nrt-qN-FF1.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Velocity:"; ObjectID = "OyN-oV-War"; */
+"OyN-oV-War.title" = "比重：";
+
+/* Class = "NSTextFieldCell"; title = "Amplitude:"; ObjectID = "QZ4-mh-Qe5"; */
+"QZ4-mh-Qe5.title" = "振幅：";
+
+/* Class = "NSTextFieldCell"; title = "Stiffness:"; ObjectID = "V1y-Ti-PDs"; */
+"V1y-Ti-PDs.title" = "硬度：";
+
+/* Class = "NSTextFieldCell"; title = "Strength:"; ObjectID = "VvL-Gn-jlg"; */
+"VvL-Gn-jlg.title" = "强度：";
+
+/* Class = "NSTextFieldCell"; title = "20 secs"; ObjectID = "WDr-b2-2sO"; */
+"WDr-b2-2sO.title" = "20 秒";
+
+/* Class = "NSButtonCell"; title = "Effect:"; ObjectID = "Xul-aV-iB1"; */
+"Xul-aV-iB1.title" = "效果:";
+
+/* Class = "NSButtonCell"; title = "Rotation"; ObjectID = "YV4-GO-0Um"; */
+"YV4-GO-0Um.title" = "旋转";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "bmI-gX-WU7"; */
+"bmI-gX-WU7.title" = "长度：";
+
+/* Class = "NSButtonCell"; title = "Scale"; ObjectID = "g3G-VH-Gdt"; */
+"g3G-VH-Gdt.title" = "缩放";
+
+/* Class = "NSTextFieldCell"; title = "Mass:"; ObjectID = "k1x-pN-l0o"; */
+"k1x-pN-l0o.title" = "重量：";
+
+/* Class = "NSTextFieldCell"; title = "Squash:"; ObjectID = "kAb-rb-S6I"; */
+"kAb-rb-S6I.title" = "粉碎：";
+
+/* Class = "NSTextFieldCell"; title = "Adjust the position, scale, or rotation of the clip after the action to see the effect."; ObjectID = "lGL-5I-Qpm"; */
+"lGL-5I-Qpm.title" = "要查看效果，请在动作后调整剪辑的位置，缩放或旋转。";
+
+/* Class = "NSButtonCell"; title = "Position"; ObjectID = "mBP-Xq-k5N"; */
+"mBP-Xq-k5N.title" = "位置";
+
+/* Class = "NSTextFieldCell"; title = "Frequency:"; ObjectID = "n7L-WC-STv"; */
+"n7L-WC-STv.title" = "频率：";
+

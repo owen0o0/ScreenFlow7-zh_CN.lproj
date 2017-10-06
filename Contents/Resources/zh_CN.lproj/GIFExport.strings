@@ -1,0 +1,39 @@
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "8W2-tE-B3Y"; */
+"8W2-tE-B3Y.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Dither :"; ObjectID = "AAo-ff-alJ"; */
+"AAo-ff-alJ.title" = "抖动：";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "Flh-Ov-zjB"; */
+"Flh-Ov-zjB.title" = "标准";
+
+/* Class = "NSTextFieldCell"; title = "Colors:"; ObjectID = "GY4-86-vYM"; */
+"GY4-86-vYM.title" = "颜色：";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "RhK-X0-fxS"; */
+"RhK-X0-fxS.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "Heavy"; ObjectID = "ZcU-Gw-lE6"; */
+"ZcU-Gw-lE6.title" = "強";
+
+/* Class = "NSTextFieldCell"; title = "Framerate:"; ObjectID = "fg6-2u-x3J"; */
+"fg6-2u-x3J.title" = "帧速率：";
+
+/* Class = "NSTextFieldCell"; title = "Strength:"; ObjectID = "gdX-f6-ck9"; */
+"gdX-f6-ck9.title" = "強度：";
+
+/* Class = "NSMenuItem"; title = "Error Diffusion"; ObjectID = "mDm-Ms-rxh"; */
+"mDm-Ms-rxh.title" = "误差扩散";
+
+/* Class = "NSMenuItem"; title = "Ordered"; ObjectID = "nxP-sh-abr"; */
+"nxP-sh-abr.title" = "有序";
+
+/* Class = "NSTextFieldCell"; title = "fps"; ObjectID = "uzq-bM-hlU"; */
+"uzq-bM-hlU.title" = "fps";
+
+/* Class = "NSMenuItem"; title = "Light"; ObjectID = "yF1-O2-i1r"; */
+"yF1-O2-i1r.title" = "弱";
+
+/* Class = "NSButtonCell"; title = "Loop"; ObjectID = "yjm-RD-5uT"; */
+"yjm-RD-5uT.title" = "循环";
+

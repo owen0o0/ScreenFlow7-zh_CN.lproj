@@ -1,0 +1,9 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Saving..."; ObjectID = "8"; */
+"8.title" = "保存...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "10"; */
+"10.title" = "取消";
+

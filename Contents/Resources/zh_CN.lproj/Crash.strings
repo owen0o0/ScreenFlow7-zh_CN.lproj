@@ -1,0 +1,26 @@
+/* Class = "NSTextFieldCell"; title = "Application Crash Detected"; ObjectID = "4"; */
+"4.title" = "检测应用程序崩溃";
+
+/* Class = "NSTextFieldCell"; title = "ScreenFlow crashed the last time it was run.  Uploading the crash log will be very useful in diagnosing and correcting the fault.\n\nIf you would like to optionally provide a description of the actions that caused ScreenFlow to crash, please enter this information below.  Please also include your email address if you'd like to be contacted about the problem."; ObjectID = "6"; */
+"6.title" = "ScreenFlow在最后一次运行时崩溃。 上载崩溃日志在诊断和修复问题方面非常有用。
+
+如果您还提供导致ScreenFlow崩溃的操作的说明，请在下面的框中填写该信息。 另外，如果您希望了解这个问题，还请包括您的电子邮件地址。";
+
+/* Class = "NSButtonCell"; title = "Upload"; ObjectID = "16"; */
+"16.title" = "上传";
+
+/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "18"; */
+"18.title" = "无视";
+
+/* Class = "NSTextFieldCell"; title = "Show Crash Log"; ObjectID = "36"; */
+"36.title" = "显示崩溃日志";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "44"; */
+"44.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Uploading Report to Server..."; ObjectID = "48"; */
+"48.title" = "将报告上传到服务器...";
+
+/* Class = "NSTextFieldCell"; title = "Uploading..."; ObjectID = "57"; */
+"57.title" = "正在上传...";
+

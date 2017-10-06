@@ -1,0 +1,30 @@
+/* Class = "NSTextFieldCell"; title = "720"; ObjectID = "6C0-Wn-gqA"; */
+"6C0-Wn-gqA.title" = "720";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "9rd-TH-JZ0"; */
+"9rd-TH-JZ0.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "LTa-nE-PaC"; */
+"LTa-nE-PaC.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Letterbox Content"; ObjectID = "WMD-S4-jnA"; */
+"WMD-S4-jnA.title" = "信箱内容";
+
+/* Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "XXN-xe-JAJ"; */
+"XXN-xe-JAJ.title" = "选项：";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "baQ-8R-1Hr"; */
+"baQ-8R-1Hr.title" = "高度：";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "j5v-lx-xPw"; */
+"j5v-lx-xPw.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "1280"; ObjectID = "mDK-mK-F4x"; */
+"mDK-mK-F4x.title" = "1280";
+
+/* Class = "NSTextFieldCell"; title = "Resolution:"; ObjectID = "phS-a2-ekd"; */
+"phS-a2-ekd.title" = "分辨率：";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "v6R-M7-1fh"; */
+"v6R-M7-1fh.title" = "宽度：";
+

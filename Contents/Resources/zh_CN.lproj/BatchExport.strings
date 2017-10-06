@@ -1,0 +1,30 @@
+/* Class = "NSWindow"; title = "ScreenFlow - Batch Export"; ObjectID = "1"; */
+"1.title" = "ScreenFlow - 批量导出";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "6tS-Wy-oBQ"; */
+"6tS-Wy-oBQ.title" = "选择...";
+
+/* Class = "NSTextFieldCell"; title = "<<do not localize>>"; ObjectID = "HGQ-hB-V8W"; */
+"HGQ-hB-V8W.title" = "<<do not localize>>";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Lbi-fl-ZFO"; */
+"Lbi-fl-ZFO.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "PXj-OU-T8a"; */
+"PXj-OU-T8a.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Begin"; ObjectID = "RLe-iI-1Aw"; */
+"RLe-iI-1Aw.title" = "启动";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "evh-Xf-SNc"; */
+"evh-Xf-SNc.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mWk-fV-nsv"; */
+"mWk-fV-nsv.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "yfr-1u-BMn"; */
+"yfr-1u-BMn.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Output Folder:"; ObjectID = "ziH-3e-iCY"; */
+"ziH-3e-iCY.title" = "输出文件夹：";
+

@@ -1,0 +1,27 @@
+/* Class = "NSMenuItem"; title = "Record <DONT LOCALIZE>"; ObjectID = "394"; */
+"394.title" = "Record <DONT LOCALIZE>";
+
+/* Class = "NSMenuItem"; title = "Configure Recording..."; ObjectID = "395"; */
+"395.title" = "录制设置...";
+
+/* Class = "NSMenuItem"; title = "Quit ScreenFlow"; ObjectID = "396"; */
+"396.title" = "结束 ScreenFlow";
+
+/* Class = "NSMenuItem"; title = "Pause <DONT LOCALIZE>"; ObjectID = "421"; */
+"421.title" = "Pause <DONT LOCALIZE>";
+
+/* Class = "NSMenuItem"; title = "<DONT LOCALIZE>"; ObjectID = "429"; */
+"429.title" = "<DONT LOCALIZE>";
+
+/* Class = "NSMenuItem"; title = "Show Recording Monitor..."; ObjectID = "440"; */
+"440.title" = "显示录像监视器";
+
+/* Class = "NSMenuItem"; title = "Hide Desktop <DONT LOCALIZE>"; ObjectID = "Orq-eK-Gnp"; */
+"Orq-eK-Gnp.title" = "Hide Desktop <DONT LOCALIZE>";
+
+/* Class = "NSMenuItem"; title = "Start Partial Recording <DONT LOCALIZE>"; ObjectID = "m1C-ZC-d6P"; */
+"m1C-ZC-d6P.title" = "Start Partial Recording <DONT LOCALIZE>";
+
+/* Class = "NSMenuItem"; title = "Add Marker"; ObjectID = "or4-rY-jZc"; */
+"or4-rY-jZc.title" = "添加标记";
+

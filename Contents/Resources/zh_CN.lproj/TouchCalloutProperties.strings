@@ -1,0 +1,87 @@
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "0Sq-LE-fIV"; */
+"0Sq-LE-fIV.title" = "尺寸：";
+
+/* Class = "NSTextFieldCell"; title = "Outline:"; ObjectID = "0qZ-KX-cgd"; */
+"0qZ-KX-cgd.title" = "轮廓：";
+
+/* Class = "NSButtonCell"; title = "Color"; ObjectID = "2cE-9H-Si3"; */
+"2cE-9H-Si3.title" = "颜色";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "2nI-Dx-euI"; */
+"2nI-Dx-euI.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Count:"; ObjectID = "3V2-eG-ybn"; */
+"3V2-eG-ybn.title" = "次数：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "6OG-96-U98"; */
+"6OG-96-U98.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "8bY-MH-7du"; */
+"8bY-MH-7du.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Spacing:"; ObjectID = "90G-q6-twF"; */
+"90G-q6-twF.title" = "间隔：";
+
+/* Class = "NSTextFieldCell"; title = "seconds before starting"; ObjectID = "B7Q-hy-2WN"; */
+"B7Q-hy-2WN.title" = "等待秒数";
+
+/* Class = "NSButtonCell"; title = "Callout Has End State"; ObjectID = "E1B-55-be4"; */
+"E1B-55-be4.title" = "标注有结束状态";
+
+/* Class = "NSTextFieldCell"; title = "Spacing:"; ObjectID = "EPG-Q1-Rov"; */
+"EPG-Q1-Rov.title" = "间隔：";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "FC0-Gl-fnx"; */
+"FC0-Gl-fnx.title" = "尺寸：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "H7S-N4-riV"; */
+"H7S-N4-riV.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "Rc5-gN-Phw"; */
+"Rc5-gN-Phw.title" = "填充：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "SJp-sL-uja"; */
+"SJp-sL-uja.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSButtonCell"; title = "Animates Values to End State"; ObjectID = "WSm-ZB-Wg2"; */
+"WSm-ZB-Wg2.title" = "动画值直到结束状态";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "ZrK-pt-kdf"; */
+"ZrK-pt-kdf.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "aOS-GS-RV1"; */
+"aOS-GS-RV1.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "bzN-hb-7ih"; */
+"bzN-hb-7ih.title" = "不透明度：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "eZc-Pz-ke2"; */
+"eZc-Pz-ke2.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "fIl-Np-Kvi"; */
+"fIl-Np-Kvi.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSButtonCell"; title = "Wait"; ObjectID = "g5A-ZW-Qip"; */
+"g5A-ZW-Qip.title" = "等待";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "jGh-YJ-oTi"; */
+"jGh-YJ-oTi.title" = "不透明度：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "qfO-LI-GzF"; */
+"qfO-LI-GzF.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Rotation:"; ObjectID = "swR-KW-Cca"; */
+"swR-KW-Cca.title" = "回转：";
+
+/* Class = "NSTextFieldCell"; title = "Rotation:"; ObjectID = "t0N-wg-51J"; */
+"t0N-wg-51J.title" = "回转：";
+
+/* Class = "NSButtonCell"; title = "Color"; ObjectID = "unb-IX-gxu"; */
+"unb-IX-gxu.title" = "颜色";
+
+/* Class = "NSTextFieldCell"; title = "Curve:"; ObjectID = "wcO-7u-U93"; */
+"wcO-7u-U93.title" = "曲线：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "xqJ-ll-sA4"; */
+"xqJ-ll-sA4.ibShadowedNoSelectionPlaceholder" = " ";
+

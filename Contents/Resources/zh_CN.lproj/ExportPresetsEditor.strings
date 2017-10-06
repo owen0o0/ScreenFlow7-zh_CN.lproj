@@ -1,0 +1,27 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "14"; */
+"14.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "16"; */
+"16.title" = "取消";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "21"; */
+"21.title" = "其他视图";
+
+/* Class = "NSTableColumn"; headerCell.title = "Show"; ObjectID = "140"; */
+"140.headerCell.title" = "显示";
+
+/* Class = "NSTableColumn"; headerCell.title = "Preset"; ObjectID = "141"; */
+"141.headerCell.title" = "预设";
+
+/* Class = "NSButtonCell"; title = "Edit..."; ObjectID = "174"; */
+"174.title" = "编辑...";
+
+/* Class = "NSMenuItem"; title = "<do not localize>"; ObjectID = "195"; */
+"195.title" = "<do not localize>";
+
+/* Class = "NSMenuItem"; title = "Copy Preset"; ObjectID = "197"; */
+"197.title" = "复制预设";
+

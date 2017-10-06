@@ -1,0 +1,210 @@
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose the audio effect."; ObjectID = "0Mn-7s-UdH"; */
+"0Mn-7s-UdH.ibShadowedToolTip" = "选择音频效果。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, the audio output of the selected clip(s) is muted.  Only accessible if the selected clip(s) have an audio track.  You can use an Audio Action to mute the volume for part of the clip."; ObjectID = "1V8-La-63k"; */
+"1V8-La-63k.ibShadowedToolTip" = "选择此复选框会使所选剪辑的音频输出静音。 只有当所选剪辑中有音轨时，才能使用它。 您可以使用音频动作来静音某些剪辑的音量。";
+
+/* (No Commment) */
+"4.ibShadowedToolTip" = "所选剪辑的音量。 只有当所选剪辑中有音轨时，才能使用它。 您可以使用音频动作将音量静音一段时间。";
+
+/* Class = "NSTextFieldCell"; title = "Amount:"; ObjectID = "4iC-zc-RTm"; */
+"4iC-zc-RTm.title" = "音量：";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The amount of noise removal applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled."; ObjectID = "4ia-mR-aya"; */
+"4ia-mR-aya.ibShadowedToolTip" = "降低应用于所选剪辑的噪声量。 只有当所选剪辑具有音轨并且启用效果时，才能使用它。";
+
+/* (No Commment) */
+"5.ibShadowedToolTip" = "所选剪辑的音量。 只有当所选剪辑中有音轨时，才能使用它。 您可以使用音频动作将音量静音一段时间。";
+
+/* Class = "NSButtonCell"; title = "Mute Audio"; ObjectID = "5kj-dZ-p0k"; */
+"5kj-dZ-p0k.title" = "静音音频";
+
+/* Class = "NSTextFieldCell"; title = "Mix Output:"; ObjectID = "6BK-E3-OxN"; */
+"6BK-E3-OxN.title" = "混合输出：";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The amount of noise removal applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled."; ObjectID = "8oM-oE-82J"; */
+"8oM-oE-82J.ibShadowedToolTip" = "降低应用于所选剪辑的噪声量。 只有当所选剪辑具有音轨并且启用效果时，才能使用它。";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The percentage by which other active clips with audio will have their volume reduced by."; ObjectID = "9hc-yO-H80"; */
+"9hc-yO-H80.ibShadowedToolTip" = "使用其他活动剪辑（包括音频）降低音量的百分比。";
+
+/* (No Commment) */
+"10.title" = "100";
+
+/* (No Commment) */
+"12.title" = "音量：";
+
+/* (No Commment) */
+"49.ibShadowedToolTip" = "选中此复选框后，音频效果将应用于所选剪辑的音频输出。 只有当所选剪辑中有音轨时，才能使用它。";
+
+/* (No Commment) */
+"50.title" = "效果：";
+
+/* (No Commment) */
+"51.ibShadowedToolTip" = "选择音频效果。";
+
+/* (No Commment) */
+"54.title" = "<DONTLOCALIZE>";
+
+/* (No Commment) */
+"57.ibShadowedToolTip" = "应用于所选剪辑的音频效果量。 只有当所选剪辑具有音轨并且启用效果时，才能使用它。";
+
+/* (No Commment) */
+"58.ibShadowedToolTip" = "应用于所选剪辑的音频效果量。 只有当所选剪辑具有音轨并且启用效果时，才能使用它。";
+
+/* (No Commment) */
+"60.title" = "50";
+
+/* (No Commment) */
+"63.title" = "量：";
+
+/* (No Commment) */
+"107.ibShadowedToolTip" = "当使用回避，当在所选剪辑上检测到声音时，时间轴中其他活动音频剪辑的音量减少。";
+
+/* (No Commment) */
+"108.title" = "回避：";
+
+/* (No Commment) */
+"109.ibShadowedToolTip" = "使用其他活动剪辑（包括音频）降低音量的百分比。";
+
+/* (No Commment) */
+"113.ibShadowedToolTip" = "使用其他活动剪辑（包括音频）降低音量的百分比。";
+
+/* (No Commment) */
+"114.title" = "100";
+
+/* (No Commment) */
+"135.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* (No Commment) */
+"137.title" = "圆角矩形按钮";
+
+/* (No Commment) */
+"141.ibShadowedToolTip" = "通过生成包含更加统一的卷的剪辑来规范和平滑剪辑中的卷。";
+
+/* (No Commment) */
+"142.title" = "平滑音量";
+
+/* (No Commment) */
+"152.ibShadowedToolTip" = "切换背景噪音去除功能。";
+
+/* (No Commment) */
+"153.title" = "消除背景噪音";
+
+/* (No Commment) */
+"157.title" = "正在处理中：";
+
+/* (No Commment) */
+"164.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* (No Commment) */
+"165.ibShadowedToolTip" = "降低应用于所选剪辑的噪声量。 只有当所选剪辑具有音轨并且启用效果时，才能使用它。";
+
+/* (No Commment) */
+"167.ibShadowedToolTip" = "降低应用于所选剪辑的噪声量。 只有当所选剪辑具有音轨并且启用效果时，才能使用它。";
+
+/* (No Commment) */
+"168.title" = "50";
+
+/* (No Commment) */
+"185.title" = "量：";
+
+/* (No Commment) */
+"188.title" = "过滤器：";
+
+/* (No Commment) */
+"189.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Volume:"; ObjectID = "Bsg-T1-kaU"; */
+"Bsg-T1-kaU.title" = "音量：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "Gv3-tT-ded"; */
+"Gv3-tT-ded.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSMenuItem"; title = "<DONTLOCALIZE>"; ObjectID = "I0B-7u-Ozk"; */
+"I0B-7u-Ozk.title" = "<DONTLOCALIZE>";
+
+/* Class = "NSButtonCell"; title = "Ducking:"; ObjectID = "Kga-TQ-7Za"; */
+"Kga-TQ-7Za.title" = "回避：";
+
+/* (No Commment) */
+"MDl-Aw-g1I.title" = "音频混合";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggles background noise removal on the clip."; ObjectID = "MJH-Mr-FKP"; */
+"MJH-Mr-FKP.ibShadowedToolTip" = "切换背景噪音去除功能。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Ducking will cause the volume of other active audio clips in the timeline to reduce when sound is detected in the selected clip."; ObjectID = "Njj-Dk-bn9"; */
+"Njj-Dk-bn9.ibShadowedToolTip" = "当使用回避，当它检测到所选择的剪辑的声音，另外在时间轴中的活性音频剪辑的体积越低。";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The Volume of the selected clip(s).  Only accessible if the selected clip(s) have an audio track.  You can use an Audio Action to reduce the volume for a period of time."; ObjectID = "NxI-eW-ZAV"; */
+"NxI-eW-ZAV.ibShadowedToolTip" = "所选剪辑的音量。 只有当所选剪辑中有音轨时，才能使用它。 您可以使用音频动作降低音量一段时间。";
+
+/* Class = "NSButtonCell"; title = "Smooth Volume Levels"; ObjectID = "O60-E9-m6j"; */
+"O60-E9-m6j.title" = "平滑音量";
+
+/* (No Commment) */
+"PvL-lm-WDM.ibShadowedToolTip" = "选择此复选框会使所选剪辑的音频输出静音。 只有当所选剪辑中有音轨时，才能使用它。 您可以使用音频动作来静音某些剪辑的音量。";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The percentage by which other active clips with audio will have their volume reduced by."; ObjectID = "TuD-46-6Lx"; */
+"TuD-46-6Lx.ibShadowedToolTip" = "使用其他活动剪辑（包括音频）降低音量的百分比。";
+
+/* Class = "NSButtonCell"; title = "Effect:"; ObjectID = "U6r-NB-1PS"; */
+"U6r-NB-1PS.title" = "效果：";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The amount of the audio effect applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled."; ObjectID = "Vdm-eR-fKl"; */
+"Vdm-eR-fKl.ibShadowedToolTip" = "应用于所选剪辑的音频效果量。 只有当所选剪辑具有音轨并且启用效果时，才能使用它。";
+
+/* Class = "NSButtonCell"; title = "Remove Background Noise"; ObjectID = "WpM-2d-Roj"; */
+"WpM-2d-Roj.title" = "消除背景噪音";
+
+/* Class = "NSTextFieldCell"; title = "Filter:"; ObjectID = "aPS-5R-5ry"; */
+"aPS-5R-5ry.title" = "过滤器：";
+
+/* Class = "NSTextFieldCell"; title = "Amount:"; ObjectID = "aPX-VY-fe1"; */
+"aPX-VY-fe1.title" = "量：";
+
+/* Class = "NSTextFieldCell"; title = "50"; ObjectID = "aW3-mt-Tyf"; */
+"aW3-mt-Tyf.title" = "50";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, the audio output of the selected clip(s) will have an audio effect applied.  Only accessible if the selected clip(s) have an audio track."; ObjectID = "b53-ea-qvw"; */
+"b53-ea-qvw.ibShadowedToolTip" = "当选中此复选框时，音频效果将应用于所选剪辑的音频输出。 只有当所选剪辑中有音轨时，才能使用它。";
+
+/* Class = "NSTextFieldCell"; title = "Audio Filters"; ObjectID = "cTY-dn-sEc"; */
+"cTY-dn-sEc.title" = "音频滤镜";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The amount of the audio effect applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled."; ObjectID = "cgE-LZ-EMf"; */
+"cgE-LZ-EMf.ibShadowedToolTip" = "应用于所选剪辑的音频效果量。 只有当所选剪辑具有音轨并且启用效果时，才能使用它。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "dfa-uW-kju"; */
+"dfa-uW-kju.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The Volume of the selected clip(s).  Only accessible if the selected clip(s) have an audio track.  You can use an Audio Action to reduce the volume for a period of time."; ObjectID = "dnu-vM-cCl"; */
+"dnu-vM-cCl.ibShadowedToolTip" = "所选剪辑的音量。 只有当所选剪辑中有音轨时，才能使用它。 您可以使用音频动作降低音量一段时间。";
+
+/* Class = "NSTextFieldCell"; title = "Audio Mix"; ObjectID = "e14-vH-n70"; */
+"e14-vH-n70.title" = "音频混合";
+
+/* Class = "NSTextFieldCell"; title = "50"; ObjectID = "eC4-LK-cCF"; */
+"eC4-LK-cCF.title" = "50";
+
+/* Class = "NSTextFieldCell"; title = "Processing:"; ObjectID = "fdG-oE-tzZ"; */
+"fdG-oE-tzZ.title" = "正在处理中：";
+
+/* (No Commment) */
+"hc2-7j-Enm.title" = "静音音频";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "pAW-Ly-SQM"; */
+"pAW-Ly-SQM.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "pjU-XU-6jb"; */
+"pjU-XU-6jb.title" = "100";
+
+/* (No Commment) */
+"rdM-Uj-IAo.title" = "混合输出：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Normalize and smooth out the volume in the clip, producing a clip with more uniform volume."; ObjectID = "x7Z-Qf-pvV"; */
+"x7Z-Qf-pvV.ibShadowedToolTip" = "通过生成包含更加统一的卷的剪辑来规范和平滑剪辑中的卷。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "xFK-gX-Ucx"; */
+"xFK-gX-Ucx.ibShadowedNoSelectionPlaceholder" = " ";
+

@@ -1,0 +1,429 @@
+/* Class = "NSButtonCell"; title = "Show Keystrokes"; ObjectID = "1Ml-Au-8hx"; */
+"1Ml-Au-8hx.title" = "显示按键";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the Keystroke display options window"; ObjectID = "1bO-bU-OR3"; */
+"1bO-bU-OR3.ibShadowedToolTip" = "打开窗口的按键敲击显示选项";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "2zO-nI-Msh"; */
+"2zO-nI-Msh.title" = "None";
+
+/* (No Commment) */
+"3.ibShadowedToolTip" = "指定在屏幕录制时检测到点击时是否发出声音。 它仅适用于屏幕录制剪辑。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = " "; ObjectID = "3ru-BR-wzw"; */
+"3ru-BR-wzw.ibShadowedIsNilPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = " "; ObjectID = "3ru-BR-wzw"; */
+"3ru-BR-wzw.ibShadowedMultipleValuesPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "3ru-BR-wzw"; */
+"3ru-BR-wzw.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "3ru-BR-wzw"; */
+"3ru-BR-wzw.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* (No Commment) */
+"3wY-LO-P3j.ibShadowedToolTip" = "控制鼠标指针的可见性。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"4.ibShadowedToolTip" = "显示鼠标指针时鼠标指针缩放的量。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"4DF-IB-Hzg.ibShadowedToolTip" = "显示屏幕录制的键输入。 它仅适用于屏幕录制剪辑。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Whether a sound is played when a click is detected in the Screen Recording.  Only works on Screen Recording clips."; ObjectID = "4Sn-0W-eDS"; */
+"4Sn-0W-eDS.ibShadowedToolTip" = "指定在屏幕录制时检测到点击时是否发出声音。 它仅适用于屏幕录制剪辑。";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips."; ObjectID = "04p-UN-4aG"; */
+"04p-UN-4aG.ibShadowedToolTip" = "控制鼠标指针的可见性。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"5.ibShadowedToolTip" = "显示鼠标指针时鼠标指针缩放的量。 它仅适用于屏幕录制剪辑。";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "5DG-cD-Bl0"; */
+"5DG-cD-Bl0.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "6PW-ol-SAv"; */
+"6PW-ol-SAv.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "Height"; ObjectID = "7VX-i3-t75"; */
+"7VX-i3-t75.title" = "高度";
+
+/* (No Commment) */
+"8.ibShadowedToolTip" = "当用鼠标点击时在桌面上使用的效果。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"12.title" = "其他视图";
+
+/* (No Commment) */
+"13.title" = "None";
+
+/* (No Commment) */
+"14.title" = "点击效果：";
+
+/* (No Commment) */
+"15.title" = "指针缩放：";
+
+/* (No Commment) */
+"16.title" = "100";
+
+/* (No Commment) */
+"18.title" = "声音点击时";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Displays all keys pressed."; ObjectID = "25r-li-OD3"; */
+"25r-li-OD3.ibShadowedToolTip" = "显示所有按键。";
+
+/* Class = "NSButtonCell"; title = "Show all keys"; ObjectID = "25r-li-OD3"; */
+"25r-li-OD3.title" = "显示所有键";
+
+/* (No Commment) */
+"40.title" = "键盘：";
+
+/* (No Commment) */
+"54.ibShadowedToolTip" = "如果选中此复选框，将显示所选屏幕录制的鼠标指针。 否则，鼠标指针被隐藏。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"55.title" = "显示鼠标指针";
+
+/* (No Commment) */
+"57.ibShadowedToolTip" = "在屏幕录制期间显示键输入。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"58.title" = "显示按键";
+
+/* (No Commment) */
+"76.title" = "指针：";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "How much to zoom the Mouse Pointer if it is visible.  Only works on Screen Recording clips."; ObjectID = "76Y-sd-aKh"; */
+"76Y-sd-aKh.ibShadowedToolTip" = "显示鼠标指针时鼠标指针缩放的量。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"121.ibShadowedToolTip" = "控制要显示的鼠标指针。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"123.title" = "其他视图";
+
+/* (No Commment) */
+"125.title" = "选择图片...";
+
+/* (No Commment) */
+"126.title" = "<DONT LOCALIZE>";
+
+/* (No Commment) */
+"160.ibShadowedToolTip" = "控制鼠标指针的可见状态。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"161.ibShadowedToolTip" = "控制鼠标指针的可见状态。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"163.title" = "不透明度：";
+
+/* (No Commment) */
+"164.title" = "100";
+
+/* (No Commment) */
+"201.ibShadowedToolTip" = "单击调整音频效果的音量。";
+
+/* (No Commment) */
+"203.ibExternalAccessibilityHelp" = "标注轮廓尺寸";
+
+/* (No Commment) */
+"203.ibShadowedToolTip" = "调整点击音频效果的音量。";
+
+/* (No Commment) */
+"204.title" = "100px";
+
+/* (No Commment) */
+"205.title" = "音量：";
+
+/* (No Commment) */
+"229.title" = "点击：";
+
+/* (No Commment) */
+"234.title" = "选择...";
+
+/* (No Commment) */
+"235.title" = "点击声音：";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips."; ObjectID = "242-Dn-Yhe"; */
+"242-Dn-Yhe.ibShadowedToolTip" = "控制鼠标指针的可见性。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"242.title" = "<do not localize>";
+
+/* (No Commment) */
+"265.title" = "<do not localize>";
+
+/* (No Commment) */
+"298.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* (No Commment) */
+"298.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* (No Commment) */
+"309.ibExternalAccessibilityHelp" = "标注轮廓尺寸";
+
+/* (No Commment) */
+"309.ibShadowedToolTip" = "调整按键显示条的高度。";
+
+/* (No Commment) */
+"310.ibShadowedToolTip" = "调整按键显示条的高度。";
+
+/* (No Commment) */
+"312.placeholderString" = "0%;0%;-0%";
+
+/* (No Commment) */
+"312.title" = "100";
+
+/* (No Commment) */
+"313.title" = "高度";
+
+/* (No Commment) */
+"315.ibExternalAccessibilityHelp" = "标注轮廓尺寸";
+
+/* (No Commment) */
+"315.ibShadowedToolTip" = "调整按键显示条的位置。";
+
+/* (No Commment) */
+"316.ibShadowedToolTip" = "调整按键显示条的位置。";
+
+/* (No Commment) */
+"318.placeholderString" = "0%;0%;-0%";
+
+/* (No Commment) */
+"318.title" = "100";
+
+/* (No Commment) */
+"320.title" = "位置";
+
+/* (No Commment) */
+"324.title" = "收音机";
+
+/* (No Commment) */
+"325.ibShadowedToolTip" = "显示所有按键。";
+
+/* (No Commment) */
+"325.title" = "显示所有键";
+
+/* (No Commment) */
+"326.ibShadowedToolTip" = "当修饰键也被按下时，只显示按键。";
+
+/* (No Commment) */
+"326.title" = "仅显示修饰键";
+
+/* (No Commment) */
+"387.ibShadowedToolTip" = "打开按键显示选项窗口";
+
+/* (No Commment) */
+"399.ibShadowedIsNilPlaceholder" = " ";
+
+/* (No Commment) */
+"399.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* (No Commment) */
+"399.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* (No Commment) */
+"400.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* (No Commment) */
+"400.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* (No Commment) */
+"401.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* (No Commment) */
+"401.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Adjusts the position of the Keystroke display bar."; ObjectID = "Ahz-Co-SaE"; */
+"Ahz-Co-SaE.ibShadowedToolTip" = "调整按键显示条的位置。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Shows typing of keys during the Screen Recording.  Only works on Screen Recording clips."; ObjectID = "D4u-NP-TOu"; */
+"D4u-NP-TOu.ibShadowedToolTip" = "显示屏幕录制的按键输入。 它仅适用于屏幕录制剪辑。";
+
+/* Class = "NSTextFieldCell"; title = "Keyboard:"; ObjectID = "EIm-bd-hXM"; */
+"EIm-bd-hXM.title" = "键盘：";
+
+/* Class = "NSMenuItem"; title = "<DONT LOCALIZE>"; ObjectID = "F5U-aI-jcf"; */
+"F5U-aI-jcf.title" = "<DONT LOCALIZE>";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "GER-KC-dPx"; */
+"GER-KC-dPx.title" = "<do not localize>";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Only display key presses when a modify key is also held down."; ObjectID = "GQZ-mo-JHf"; */
+"GQZ-mo-JHf.ibShadowedToolTip" = "当修饰键也被按下时，只显示按键。";
+
+/* Class = "NSButtonCell"; title = "Show only modifier keys"; ObjectID = "GQZ-mo-JHf"; */
+"GQZ-mo-JHf.title" = "仅显示修饰键";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Shows the Mouse Pointer for the selected Screen Recording, if checked.  Otherwise, Mouse Pointer is hidden.  Only works on Screen Recording clips."; ObjectID = "La4-Yk-uxK"; */
+"La4-Yk-uxK.ibShadowedToolTip" = "显示所选屏幕录制的鼠标指针（如果已选择）。 否则，鼠标指针被隐藏。 它仅适用于屏幕录制剪辑。";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips."; ObjectID = "Mfv-Rx-xZH"; */
+"Mfv-Rx-xZH.ibShadowedToolTip" = "控制鼠标指针的可见性。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"NFe-Vi-rAo.ibShadowedToolTip" = "控制鼠标指针的可见性。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"PjJ-op-cXc.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* (No Commment) */
+"PjJ-op-cXc.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Position"; ObjectID = "Q9W-Yh-VZL"; */
+"Q9W-Yh-VZL.title" = "位置";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = " "; ObjectID = "RCT-PD-RMU"; */
+"RCT-PD-RMU.ibShadowedIsNilPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "RCT-PD-RMU"; */
+"RCT-PD-RMU.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "RCT-PD-RMU"; */
+"RCT-PD-RMU.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "100px"; ObjectID = "SdM-Lm-hfI"; */
+"SdM-Lm-hfI.title" = "100px";
+
+/* Class = "NSTextFieldCell"; title = "Pointer Zoom:"; ObjectID = "Sel-j6-XcK"; */
+"Sel-j6-XcK.title" = "缩放指针：";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The effect to use on the Desktop when the mouse is clicked.  Only works on Screen Recording clips."; ObjectID = "SiB-Ca-lz2"; */
+"SiB-Ca-lz2.ibShadowedToolTip" = "当用鼠标点击时在桌面上使用的效果。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"Tcf-Qe-8Za.title" = "附加到剪辑";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "URF-fD-jhg"; */
+"URF-fD-jhg.ibExternalAccessibilityHelp" = "标注轮廓尺寸";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjusts the height of the Keystroke display bar."; ObjectID = "URF-fD-jhg"; */
+"URF-fD-jhg.ibShadowedToolTip" = "调整按键显示条的位置。";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Adjusts the height of the Keystroke display bar."; ObjectID = "Vzf-mK-4Zw"; */
+"Vzf-mK-4Zw.ibShadowedToolTip" = "调整按键显示条的位置。";
+
+/* Class = "NSTextFieldCell"; title = "Pointer:"; ObjectID = "Vzg-Xm-wco"; */
+"Vzg-Xm-wco.title" = "指针：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = " "; ObjectID = "Wpz-U4-fdE"; */
+"Wpz-U4-fdE.ibShadowedIsNilPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "Wpz-U4-fdE"; */
+"Wpz-U4-fdE.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "Wpz-U4-fdE"; */
+"Wpz-U4-fdE.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "X6Y-0l-Wf0"; */
+"X6Y-0l-Wf0.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "X6Y-0l-Wf0"; */
+"X6Y-0l-Wf0.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "YQD-QS-d7c"; */
+"YQD-QS-d7c.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "YQD-QS-d7c"; */
+"YQD-QS-d7c.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Controls which mouse pointer will be displayed.  Only works on Screen Recording clips."; ObjectID = "YW6-0A-l9o"; */
+"YW6-0A-l9o.ibShadowedToolTip" = "控制显示哪个鼠标指针。 它仅适用于屏幕录制剪辑。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "Zf3-bM-fFC"; */
+"Zf3-bM-fFC.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "Zf3-bM-fFC"; */
+"Zf3-bM-fFC.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "abw-XT-lqm"; */
+"abw-XT-lqm.title" = "不透明度：";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "arB-Ur-h8A"; */
+"arB-Ur-h8A.title" = "收音机";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "bmd-KS-xmO"; */
+"bmd-KS-xmO.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "bmd-KS-xmO"; */
+"bmd-KS-xmO.title" = "100";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "c0b-7E-FCL"; */
+"c0b-7E-FCL.ibExternalAccessibilityHelp" = "标注轮廓尺寸";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjusts the position of the Keystroke display bar."; ObjectID = "c0b-7E-FCL"; */
+"c0b-7E-FCL.ibShadowedToolTip" = "调整按键显示条的位置。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "dw4-el-xmN"; */
+"dw4-el-xmN.title" = "其他视图";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How much to zoom the Mouse Pointer if it is visible.  Only works on Screen Recording clips."; ObjectID = "eUC-5d-WYN"; */
+"eUC-5d-WYN.ibShadowedToolTip" = "显示鼠标指针时鼠标指针缩放的量。 它仅适用于屏幕录制剪辑。";
+
+/* Class = "NSButtonCell"; title = "Show Mouse Pointer"; ObjectID = "ecQ-qp-u3l"; */
+"ecQ-qp-u3l.title" = "显示鼠标指针";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "epA-pf-hie"; */
+"epA-pf-hie.title" = "选择...";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "ffx-2f-cG6"; */
+"ffx-2f-cG6.title" = "100";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "gVb-SB-N5d"; */
+"gVb-SB-N5d.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "gVb-SB-N5d"; */
+"gVb-SB-N5d.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips."; ObjectID = "gZ3-GA-Gl2"; */
+"gZ3-GA-Gl2.ibShadowedToolTip" = "控制鼠标指针的可见性。 它仅适用于屏幕录制剪辑。";
+
+/* (No Commment) */
+"hIi-0h-fN3.title" = "100";
+
+/* Class = "NSButtonCell"; title = "Sound on Click"; ObjectID = "hfw-cd-c3R"; */
+"hfw-cd-c3R.title" = "声音点击时";
+
+/* Class = "NSTextFieldCell"; title = "Click Effect:"; ObjectID = "lCu-tu-Mef"; */
+"lCu-tu-Mef.title" = "点击效果：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Shows typing of keys during the Screen Recording.  Only works on Screen Recording clips."; ObjectID = "mBW-nK-3z9"; */
+"mBW-nK-3z9.ibShadowedToolTip" = "显示屏幕录制的键输入。 它仅适用于屏幕录制剪辑。";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "oCC-9F-jlU"; */
+"oCC-9F-jlU.ibExternalAccessibilityHelp" = "标注轮廓尺寸";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjusts the volume of the click audio effect."; ObjectID = "oCC-9F-jlU"; */
+"oCC-9F-jlU.ibShadowedToolTip" = "单击调整音频效果的音量。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "okq-Vk-rpj"; */
+"okq-Vk-rpj.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "okq-Vk-rpj"; */
+"okq-Vk-rpj.title" = "100";
+
+/* Class = "NSMenuItem"; title = "Choose Image..."; ObjectID = "qB0-hd-gef"; */
+"qB0-hd-gef.title" = "选择图片...";
+
+/* Class = "NSTextFieldCell"; title = "Click Sound:"; ObjectID = "qN6-1N-47k"; */
+"qN6-1N-47k.title" = "点击声音：";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "qYJ-zx-89g"; */
+"qYJ-zx-89g.title" = "宽度：";
+
+/* Class = "NSButtonCell"; title = "Attached To Clip"; ObjectID = "rf2-0a-SYt"; */
+"rf2-0a-SYt.title" = "附加到剪辑";
+
+/* (No Commment) */
+"u0u-7A-r70.title" = "宽度：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "vKf-BX-6sp"; */
+"vKf-BX-6sp.title" = "其他视图";
+
+/* Class = "NSTextFieldCell"; title = "Volume:"; ObjectID = "wEX-lw-r4p"; */
+"wEX-lw-r4p.title" = "音量：";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Adjusts the volume of the click audio effect."; ObjectID = "yha-UT-Pvo"; */
+"yha-UT-Pvo.ibShadowedToolTip" = "单击调整音频效果的音量。";
+

@@ -1,0 +1,72 @@
+/* Class = "NSTextFieldCell"; title = "Interface Theme:"; ObjectID = "0f3-my-qwE"; */
+"0f3-my-qwE.title" = "界面主题：";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Control how long of a countdown is shown before recording begins."; ObjectID = "1sZ-3V-3ZT"; */
+"1sZ-3V-3ZT.ibShadowedToolTip" = "您可以控制在开始录制前的等待时间。";
+
+/* Class = "NSTextFieldCell"; title = "Canvas:"; ObjectID = "9Y1-cq-45G"; */
+"9Y1-cq-45G.title" = "画布：";
+
+/* Class = "NSButtonCell"; title = "Launch ScreenFlow Helper at user login"; ObjectID = "Des-rY-wFL"; */
+"Des-rY-wFL.title" = "在用户登录时启动 ScreenFlow助手";
+
+/* Class = "NSButtonCell"; title = "Show ScreenFlow options in menu bar"; ObjectID = "EC5-Zy-uH0"; */
+"EC5-Zy-uH0.title" = "在菜单栏中显示ScreenFlow选项";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, ScreenFlow will contact the Telestream servers on launch to make sure your version is up-to-date."; ObjectID = "HZV-eU-xgU"; */
+"HZV-eU-xgU.ibShadowedToolTip" = "当选中此复选框时，启动ScreenFlow时，它连接到Telestream的服务器，并检查您的版本是否是最新版本。";
+
+/* Class = "NSTextFieldCell"; title = "Help us improve ScreenFlow by sending anonymous usage data"; ObjectID = "IEI-Sd-gLb"; */
+"IEI-Sd-gLb.title" = "请发送匿名使用状态数据用来改进ScreenFlow功能";
+
+/* Class = "NSMenuItem"; title = "Light"; ObjectID = "JQ2-Wa-SKV"; */
+"JQ2-Wa-SKV.title" = "亮";
+
+/* Class = "NSButtonCell"; title = "Send diagnostic and usage information"; ObjectID = "LwT-xe-s4u"; */
+"LwT-xe-s4u.title" = "发送诊断和使用信息";
+
+/* Class = "NSButtonCell"; title = "Countdown for "; ObjectID = "NAi-eW-jT3"; */
+"NAi-eW-jT3.title" = "倒计时： ";
+
+/* Class = "NSTextFieldCell"; title = "secs before recording"; ObjectID = "PA1-CV-MXR"; */
+"PA1-CV-MXR.title" = "秒后开始记录";
+
+/* Class = "NSTextFieldCell"; title = "This setting can be inverted in the canvas using the Shift Key"; ObjectID = "PC2-Gx-wec"; */
+"PC2-Gx-wec.title" = "您可以使用Shift键在画布中反转此设置。";
+
+/* Class = "NSTextFieldCell"; title = "Startup:"; ObjectID = "QDW-Vk-cJJ"; */
+"QDW-Vk-cJJ.title" = "启动：";
+
+/* Class = "NSTextFieldCell"; title = "Auto Update:"; ObjectID = "YQz-90-LRZ"; */
+"YQz-90-LRZ.title" = "自动更新：";
+
+/* Class = "NSButtonCell"; title = "Check for ScreenFlow updates at launch"; ObjectID = "db8-R0-i40"; */
+"db8-R0-i40.title" = "启动时检查ScreenFlow更新";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "eI6-4n-pNy"; */
+"eI6-4n-pNy.title" = "100";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Control how long of a countdown is shown before recording begins."; ObjectID = "hYw-bs-tCf"; */
+"hYw-bs-tCf.ibShadowedToolTip" = "您可以控制在开始录制前的等待时间。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, the ScreenFlow menu will be shown in the Status area (far right) of the Menu Bar."; ObjectID = "iPh-kT-BSj"; */
+"iPh-kT-BSj.ibShadowedToolTip" = "选中此复选框后，ScreenFlow栏将显示在菜单栏的状态区域（最右侧）。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, when you log in, the ScreenFlow Helper will be launched.  See the \"Login Items\" tab in the \"Accounts\" section of \"System Preferences\"."; ObjectID = "kIP-sN-Oc5"; */
+"kIP-sN-Oc5.ibShadowedToolTip" = "如果选中此复选框，ScreenFlow Helper 将在您登录时启动。 请参阅“系统偏好设置”的“帐户”部分中的“登录项目”。";
+
+/* Class = "NSButtonCell"; title = "Lock Aspect Ratio when scaling with mouse"; ObjectID = "lva-YR-W8J"; */
+"lva-YR-W8J.title" = "使用鼠标进行缩放时锁定纵横比";
+
+/* Class = "NSTextFieldCell"; title = "Settings:"; ObjectID = "mY8-7o-RXr"; */
+"mY8-7o-RXr.title" = "设置：";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Control how long of a countdown is shown before recording begins."; ObjectID = "oat-SA-nw6"; */
+"oat-SA-nw6.ibShadowedToolTip" = "您可以控制在开始录制前的等待时间。";
+
+/* Class = "NSMenuItem"; title = "Dark"; ObjectID = "p0T-DC-jvR"; */
+"p0T-DC-jvR.title" = "暗";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Control how long of a countdown is shown before recording begins."; ObjectID = "rSh-e0-Iuj"; */
+"rSh-e0-Iuj.ibShadowedToolTip" = "您可以控制在开始录制前的等待时间。";
+

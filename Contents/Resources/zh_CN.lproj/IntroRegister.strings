@@ -1,0 +1,27 @@
+/* Class = "NSTextFieldCell"; title = "Register ScreenFlow"; ObjectID = "3"; */
+"3.title" = "注册ScreenFlow";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "7"; */
+"7.title" = "注册";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for purchasing ScreenFlow. Register your software now to receive product tutorials, news, offers and updates."; ObjectID = "24"; */
+"24.title" = "这次非常感谢您购买ScreenFlow。 现在注册您的软件以获得产品教程，最新信息，特殊项目和更新。";
+
+/* Class = "NSButtonCell"; title = "Skip"; ObjectID = "28"; */
+"28.title" = "跳过";
+
+/* Class = "NSTextFieldCell"; placeholderString = "email@domain.com"; ObjectID = "35"; */
+"35.placeholderString" = "email@domain.com";
+
+/* Class = "NSTextFieldCell"; title = "First Name:"; ObjectID = "38"; */
+"38.title" = "名：";
+
+/* Class = "NSTextFieldCell"; title = "Last Name:"; ObjectID = "40"; */
+"40.title" = "姓：";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "42"; */
+"42.title" = "电子信箱：";
+
+/* Class = "NSTextFieldCell"; title = "We will NEVER share your information with anyone.  To find out more, please visit the Telestream Privacy Page"; ObjectID = "44"; */
+"44.title" = "我们从不向第三方透露您的信息。 有关详细信息，请参阅Telestream的隐私政策。";
+

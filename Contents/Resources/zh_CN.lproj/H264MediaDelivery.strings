@@ -1,0 +1,39 @@
+/* Class = "NSButtonCell"; title = "Location..."; ObjectID = "1MH-pc-d31"; */
+"1MH-pc-d31.title" = "位置...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Will insert black around the edges of the output to ensure that the content maintains its aspect ratio.  This is important if the width/height you have entered is not the same ratio as the canvas width/height."; ObjectID = "3"; */
+"3.ibShadowedToolTip" = "在输出边缘插入一个黑色区域，以保持内容的宽高比。 当输入宽/高比与画布宽/高比不同时，此功能很重要。";
+
+/* Class = "NSButtonCell"; title = "Letterbox Content"; ObjectID = "4"; */
+"4.title" = "信箱";
+
+/* Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "10"; */
+"10.title" = "选项：";
+
+/* Class = "NSTextFieldCell"; title = "Video Encoding:"; ObjectID = "99"; */
+"99.title" = "视频编码：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "113"; */
+"113.title" = "OtherViews";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, Motion Blur will be used on the output.  This will make the output very high quality when you have used Video Actions to rotate or move clips."; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "选中此复选框后，运动模糊将用于输出。 当您使用视频操作旋转或移动剪辑时，这将提供非常高质量的输出。";
+
+/* Class = "NSButtonCell"; title = "Use Motion Blur"; ObjectID = "133"; */
+"133.title" = "运动模糊";
+
+/* Class = "NSButtonCell"; title = "Save copy to disk"; ObjectID = "BFB-eq-ijq"; */
+"BFB-eq-ijq.title" = "将副本保存到磁盘";
+
+/* Class = "NSButtonCell"; title = "Add Captions Track"; ObjectID = "akP-kl-PXa"; */
+"akP-kl-PXa.title" = "添加字幕轨道";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "csZ-Fd-qHP"; */
+"csZ-Fd-qHP.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Media File:"; ObjectID = "mHQ-fP-MDJ"; */
+"mHQ-fP-MDJ.title" = "媒体文件：";
+
+/* Class = "NSTextFieldCell"; title = "Frame rate:"; ObjectID = "sfL-Xx-YZN"; */
+"sfL-Xx-YZN.title" = "帧速率：";
+

@@ -1,0 +1,27 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Insert"; ObjectID = "5"; */
+"5.title" = "插入";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "7"; */
+"7.title" = "取消";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "13"; */
+"13.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Generating..."; ObjectID = "17"; */
+"17.title" = "生成...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "19"; */
+"19.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Enter the text you would like converted into speech:"; ObjectID = "27"; */
+"27.title" = "输入您要转换为语音的文字：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "30"; */
+"30.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Voice:"; ObjectID = "35"; */
+"35.title" = "语音：";
+

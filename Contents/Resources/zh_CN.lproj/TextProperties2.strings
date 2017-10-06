@@ -1,0 +1,99 @@
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "27"; */
+"27.title" = "字体：";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "43"; */
+"43.title" = "尺寸：";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose the font family."; ObjectID = "321"; */
+"321.ibShadowedToolTip" = "选择字体系列。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "323"; */
+"323.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "<DONT LOCALIZE>"; ObjectID = "324"; */
+"324.title" = "<DONT LOCALIZE>";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Sets the color of the outline."; ObjectID = "388"; */
+"388.ibShadowedToolTip" = "设置轮廓的颜色。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Sets the body of the font to be filled."; ObjectID = "409"; */
+"409.ibShadowedToolTip" = "设置为填充字体的正文。";
+
+/* Class = "NSButtonCell"; title = "Fill:"; ObjectID = "410"; */
+"410.title" = "填充：";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose the font fill style."; ObjectID = "418"; */
+"418.ibShadowedToolTip" = "选择字体的填充样式。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "420"; */
+"420.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Gradient"; ObjectID = "421"; */
+"421.title" = "梯度";
+
+/* Class = "NSMenuItem"; title = "Image"; ObjectID = "422"; */
+"422.title" = "图片";
+
+/* Class = "NSMenuItem"; title = "Solid Color"; ObjectID = "423"; */
+"423.title" = "单色";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Sets the thickness of the outline."; ObjectID = "427"; */
+"427.ibShadowedToolTip" = "设置轮廓的厚度。";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Sets the thickness of the outline."; ObjectID = "429"; */
+"429.ibShadowedToolTip" = "设置轮廓的厚度。";
+
+/* Class = "NSTextFieldCell"; title = "100.0%"; ObjectID = "430"; */
+"430.title" = "100.0%";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Sets the edge of the font to be outlined."; ObjectID = "436"; */
+"436.ibShadowedToolTip" = "将字体的边缘设为中空。";
+
+/* Class = "NSButtonCell"; title = "Outline:"; ObjectID = "437"; */
+"437.title" = "轮廓：";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Sets the font's fill color."; ObjectID = "457"; */
+"457.ibShadowedToolTip" = "设置字体的填充颜色。";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Set the font size."; ObjectID = "551"; */
+"551.ibShadowedToolTip" = "设置字体大小。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "553"; */
+"553.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Font Panel..."; ObjectID = "554"; */
+"554.title" = "字体面板...";
+
+/* Class = "NSMenuItem"; title = "<<DO NOT LOCALIZE>>"; ObjectID = "556"; */
+"556.title" = "<<DO NOT LOCALIZE>>";
+
+/* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "566"; */
+"566.title" = "对齐：";
+
+/* Class = "NSSegmentedCell"; 568.ibShadowedToolTips[0] = "Left Justify"; ObjectID = "568"; */
+"568.ibShadowedToolTips[0]" = "左对齐";
+
+/* Class = "NSSegmentedCell"; 568.ibShadowedToolTips[1] = "Center Justify"; ObjectID = "568"; */
+"568.ibShadowedToolTips[1]" = "中心对齐";
+
+/* Class = "NSSegmentedCell"; 568.ibShadowedToolTips[2] = "Right Justify"; ObjectID = "568"; */
+"568.ibShadowedToolTips[2]" = "右对齐";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "666"; */
+"666.title" = "选择...";
+
+/* Class = "NSSegmentedCell"; 705.ibShadowedToolTips[0] = "Sets the font style to bold."; ObjectID = "705"; */
+"705.ibShadowedToolTips[0]" = "将字体样式设置为粗体。";
+
+/* Class = "NSSegmentedCell"; 705.ibShadowedToolTips[1] = "Sets the font style to italic."; ObjectID = "705"; */
+"705.ibShadowedToolTips[1]" = "将字体样式设置为斜体。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "713"; */
+"713.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Bullets:"; ObjectID = "RKt-aI-RND"; */
+"RKt-aI-RND.title" = "子弹：";
+
+/* Class = "NSTextFieldCell"; title = "Kerning:"; ObjectID = "pCL-Hm-pEn"; */
+"pCL-Hm-pEn.title" = "字距：";
+

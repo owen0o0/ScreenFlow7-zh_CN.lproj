@@ -1,0 +1,45 @@
+/* Class = "NSWindow"; title = "Clip Inspector"; ObjectID = "3"; */
+"3.title" = "剪辑属性面板";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjusts the relative speed of the clip."; ObjectID = "6"; */
+"6.ibShadowedToolTip" = "调整剪辑的相对速度。";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Adjusts the relative speed of the clip."; ObjectID = "7"; */
+"7.ibShadowedToolTip" = "调整剪辑的相对速度。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "9"; */
+"9.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "9"; */
+"9.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Speed:"; ObjectID = "10"; */
+"10.title" = "速度：";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "14"; */
+"14.title" = "时长：";
+
+/* Class = "NSTextFieldCell"; title = "Source Duration:"; ObjectID = "16"; */
+"16.title" = "源长度：";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "18"; */
+"18.title" = "<do not localize>";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The current duration of the clip in the timeline."; ObjectID = "19"; */
+"19.ibShadowedToolTip" = "时间轴中剪辑的当前长度。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Locking a clip prevents it from being moved or deleted in the timeline."; ObjectID = "64"; */
+"64.ibShadowedToolTip" = "锁定剪辑可防止在时间轴中移动或删除剪辑。";
+
+/* Class = "NSButtonCell"; title = "Locked"; ObjectID = "65"; */
+"65.title" = "锁定";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Not Applicable"; ObjectID = "69"; */
+"69.ibShadowedIsNilPlaceholder" = "不适用";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Locking a clip prevents it from being moved or deleted in the timeline."; ObjectID = "EYG-cn-R2P"; */
+"EYG-cn-R2P.ibShadowedToolTip" = "锁定剪辑可防止在时间轴中移动或删除剪辑。";
+
+/* Class = "NSButtonCell"; title = "Play clip in reverse"; ObjectID = "lof-u5-6JS"; */
+"lof-u5-6JS.title" = "反向播放剪辑";
+

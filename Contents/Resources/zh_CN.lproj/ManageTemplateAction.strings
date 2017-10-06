@@ -1,0 +1,12 @@
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "AZJ-pO-s8t"; */
+"AZJ-pO-s8t.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Templates"; ObjectID = "JlO-q2-WDb"; */
+"JlO-q2-WDb.headerCell.title" = "模板";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "NVv-Rn-tee"; */
+"NVv-Rn-tee.title" = "关闭";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "y87-Wz-WGl"; */
+"y87-Wz-WGl.title" = "Text Cell";
+

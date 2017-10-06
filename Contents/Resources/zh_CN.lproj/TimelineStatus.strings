@@ -1,0 +1,12 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Zoom Out"; ObjectID = "1d1-h6-o6I"; */
+"1d1-h6-o6I.ibExternalAccessibilityDescription" = "缩小";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Zoom In"; ObjectID = "aD7-lX-Qq2"; */
+"aD7-lX-Qq2.ibExternalAccessibilityDescription" = "放大";
+
+/* Class = "NSView"; ibShadowedToolTip = "The current frame rate the timeline is operating at"; ObjectID = "t8h-Yi-dzU"; */
+"t8h-Yi-dzU.ibShadowedToolTip" = "时间轴正在运行的当前帧速率";
+
+/* Class = "NSTextFieldCell"; title = "<<do not localize>>"; ObjectID = "vnU-En-vSR"; */
+"vnU-En-vSR.title" = "<<do not localize>>";
+

@@ -1,0 +1,93 @@
+/* Class = "NSSlider"; ibShadowedToolTip = "The thickness of the annotation outline, expressed in pixels."; ObjectID = "701"; */
+"701.ibShadowedToolTip" = "注释轮廓的厚度（以像素为单位）。";
+
+/* Class = "NSTextFieldCell"; title = "Thickness:"; ObjectID = "705"; */
+"705.title" = "厚度：";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The thickness of the annotation outline, expressed in pixels."; ObjectID = "706"; */
+"706.ibShadowedToolTip" = "注释轮廓的厚度（以像素为单位）。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "707"; */
+"707.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "10.0%"; ObjectID = "707"; */
+"707.title" = "10.0%";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Sets the color of the currently selected annotation."; ObjectID = "730"; */
+"730.ibShadowedToolTip" = "设置当前选定的注释的颜色。";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "732"; */
+"732.title" = "颜色：";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How much drop shadow to apply to the selected annotation."; ObjectID = "733"; */
+"733.ibShadowedToolTip" = "应用于所选注释的阴影量。";
+
+/* Class = "NSSlider"; ibExternalAccessibilityHelp = "callout zoomup"; ObjectID = "734"; */
+"734.ibExternalAccessibilityHelp" = "放大标注";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "How much drop shadow to apply to the selected annotation."; ObjectID = "734"; */
+"734.ibShadowedToolTip" = "应用于所选注释的阴影量。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enables drop shadow on the selected annotations."; ObjectID = "735"; */
+"735.ibShadowedToolTip" = "启用所选注释的阴影。";
+
+/* Class = "NSButtonCell"; title = "Shadow:"; ObjectID = "736"; */
+"736.title" = "阴影：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "738"; */
+"738.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "738"; */
+"738.title" = "100";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enables an outline around the selected annotations."; ObjectID = "804"; */
+"804.ibShadowedToolTip" = "激活所选注释的轮廓。";
+
+/* Class = "NSButtonCell"; title = "Outline:"; ObjectID = "805"; */
+"805.title" = "轮廓：";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Sets the color of the outline."; ObjectID = "807"; */
+"807.ibShadowedToolTip" = "轮廓颜色";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "How much outline to apply to the selected annotation."; ObjectID = "809"; */
+"809.ibShadowedToolTip" = "要应用于所选注释的轮廓数量。";
+
+/* Class = "NSTextFieldCell"; title = "Endpoints:"; ObjectID = "817"; */
+"817.title" = "终点：";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The look of the start & end points of line and arrow annotations."; ObjectID = "818"; */
+"818.ibShadowedToolTip" = "出现线条和箭头注释的起点和终点。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "820"; */
+"820.title" = "其他视图";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The look of the start & end points of line and arrow annotations."; ObjectID = "824"; */
+"824.ibShadowedToolTip" = "出现线条和箭头注释的起点和终点。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "826"; */
+"826.title" = "其他视图";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "871"; */
+"871.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "873"; */
+"873.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "A percentage of how much you can \"see through\" the selected annotation(s)."; ObjectID = "874"; */
+"874.ibShadowedToolTip" = "注释轮廓的厚度（以像素为单位）。";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "A percentage of how much you can \"see through\" the selected annotation(s)."; ObjectID = "876"; */
+"876.ibShadowedToolTip" = "注释轮廓的厚度（以像素为单位）。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "877"; */
+"877.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "10.0%"; ObjectID = "877"; */
+"877.title" = "10.0%";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "878"; */
+"878.title" = "不透明度：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "886"; */
+"886.ibShadowedNoSelectionPlaceholder" = " ";
+

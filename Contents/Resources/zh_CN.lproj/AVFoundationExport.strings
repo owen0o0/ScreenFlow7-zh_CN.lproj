@@ -1,0 +1,30 @@
+/* Class = "NSTextFieldCell"; title = "fps"; ObjectID = "6"; */
+"6.title" = "fps";
+
+/* Class = "NSTextFieldCell"; title = "Framerate:"; ObjectID = "7"; */
+"7.title" = "帧速率：";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "25"; */
+"25.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "26"; */
+"26.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Mono"; ObjectID = "AQP-dJ-dyR"; */
+"AQP-dJ-dyR.title" = "单声道";
+
+/* Class = "NSTextFieldCell"; title = "Channels:"; ObjectID = "IBY-gL-y5P"; */
+"IBY-gL-y5P.title" = "通道:";
+
+/* Class = "NSTextFieldCell"; title = "Sample rate:"; ObjectID = "Q6U-GK-4zD"; */
+"Q6U-GK-4zD.title" = "采样率：";
+
+/* Class = "NSButtonCell"; title = "Stereo"; ObjectID = "Usr-R1-OUD"; */
+"Usr-R1-OUD.title" = "立体声";
+
+/* Class = "NSTextFieldCell"; title = "kHz"; ObjectID = "a4D-BA-7XY"; */
+"a4D-BA-7XY.title" = "kHz";
+
+/* Class = "NSTextFieldCell"; title = "ProRes Profile:"; ObjectID = "gbm-MG-4Bo"; */
+"gbm-MG-4Bo.title" = "ProRes 简介：";
+

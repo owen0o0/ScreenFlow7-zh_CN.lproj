@@ -1,0 +1,42 @@
+/* Class = "NSButtonCell"; ibShadowedToolTip = "The new recording will be added to the document selected in the popup.  The new recording is added to the Document Media panel, and you need to then drag it to the timeline."; ObjectID = "20"; */
+"20.ibShadowedToolTip" = "新的录像将被添加到弹出窗口中选择的文档中。 同时将添加到文档媒体面板，因此您需要将它们拖到时间轴上。";
+
+/* Class = "NSButtonCell"; title = "Add to Document :"; ObjectID = "20"; */
+"20.title" = "添加文件：";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "A new document will be created with the recording you have just made."; ObjectID = "21"; */
+"21.ibShadowedToolTip" = "使用刚刚创建的录象创建新文档。";
+
+/* Class = "NSButtonCell"; title = "Create New Document"; ObjectID = "21"; */
+"21.title" = "创建一个新的文档";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "22"; */
+"22.title" = "收音机";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "24"; */
+"24.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "25"; */
+"25.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "26"; */
+"26.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Untitled"; ObjectID = "27"; */
+"27.title" = "无标题";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Optional"; ObjectID = "Gjz-gf-KvA"; */
+"Gjz-gf-KvA.ibShadowedIsNilPlaceholder" = "选项";
+
+/* Class = "NSButtonCell"; title = "Add to Document:"; ObjectID = "Kp7-7z-av2"; */
+"Kp7-7z-av2.title" = "添加文件：";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "gDD-YF-Cb7"; */
+"gDD-YF-Cb7.title" = "名称：";
+
+/* Class = "NSButtonCell"; title = "Add clip directly to timeline"; ObjectID = "k7w-wY-y6r"; */
+"k7w-wY-y6r.title" = "将剪辑直接添加到时间轴";
+
+/* Class = "NSButtonCell"; title = "Create New Document"; ObjectID = "k8o-22-Sz5"; */
+"k8o-22-Sz5.title" = "创建一个新的文档";
+

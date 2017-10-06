@@ -1,0 +1,81 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Timeline"; ObjectID = "117"; */
+"117.ibExternalAccessibilityDescription" = "时间线";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityHelp = "timeline"; ObjectID = "120"; */
+"120.ibExternalAccessibilityHelp" = "时间线";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Fast Forward"; ObjectID = "138"; */
+"138.ibExternalAccessibilityDescription" = "快进";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "fast forward"; ObjectID = "138"; */
+"138.ibExternalAccessibilityHelp" = "快进";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Jump the scrubber to the end of the presentation."; ObjectID = "138"; */
+"138.ibShadowedToolTip" = "移动滑块至演示结束。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Play"; ObjectID = "139"; */
+"139.ibExternalAccessibilityDescription" = "播放";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "play"; ObjectID = "139"; */
+"139.ibExternalAccessibilityHelp" = "播放";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Plays the presentation from the current scrubber point in the timeline."; ObjectID = "139"; */
+"139.ibShadowedToolTip" = "从时间轴上的当前滑块位置播放演示文稿。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Resize Canvas"; ObjectID = "141"; */
+"141.ibExternalAccessibilityDescription" = "更改画布的大小";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "resize canvas"; ObjectID = "141"; */
+"141.ibExternalAccessibilityHelp" = "更改画布的大小";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Resize the canvas area."; ObjectID = "141"; */
+"141.ibShadowedToolTip" = "更改画布区域的大小。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Rewind"; ObjectID = "142"; */
+"142.ibExternalAccessibilityDescription" = "倒带";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "rewind"; ObjectID = "142"; */
+"142.ibExternalAccessibilityHelp" = "倒带";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Jump the scrubber to the start of the presentation."; ObjectID = "142"; */
+"142.ibShadowedToolTip" = "将滑块移动到演示文稿的开头。";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Master Audio Meter"; ObjectID = "260"; */
+"260.ibExternalAccessibilityDescription" = "主音频表";
+
+/* Class = "NSView"; ibExternalAccessibilityHelp = "audio meter"; ObjectID = "260"; */
+"260.ibExternalAccessibilityHelp" = "音频表";
+
+/* Class = "NSView"; ibShadowedToolTip = "Master audio level."; ObjectID = "260"; */
+"260.ibShadowedToolTip" = "主音频级别。";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Timecode View"; ObjectID = "402"; */
+"402.ibExternalAccessibilityDescription" = "时间码视图";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Upload Manager"; ObjectID = "504"; */
+"504.ibExternalAccessibilityDescription" = "上传管理器";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Master Audio Meter"; ObjectID = "Ruf-MX-psz"; */
+"Ruf-MX-psz.ibExternalAccessibilityDescription" = "主音频表";
+
+/* Class = "NSView"; ibExternalAccessibilityHelp = "audio meter"; ObjectID = "Ruf-MX-psz"; */
+"Ruf-MX-psz.ibExternalAccessibilityHelp" = "音频表";
+
+/* Class = "NSView"; ibShadowedToolTip = "Master audio level."; ObjectID = "Ruf-MX-psz"; */
+"Ruf-MX-psz.ibShadowedToolTip" = "主音频级别。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggles muting of the audio preview for this document"; ObjectID = "Uvt-pu-azX"; */
+"Uvt-pu-azX.ibShadowedToolTip" = "静音音频预览本文档";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Resize Canvas"; ObjectID = "opj-o2-xrs"; */
+"opj-o2-xrs.ibExternalAccessibilityDescription" = "更改画布的大小";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "resize canvas"; ObjectID = "opj-o2-xrs"; */
+"opj-o2-xrs.ibExternalAccessibilityHelp" = "更改画布的大小";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggles the display of the media library overlay"; ObjectID = "opj-o2-xrs"; */
+"opj-o2-xrs.ibShadowedToolTip" = "切换媒体库叠加显示";
+

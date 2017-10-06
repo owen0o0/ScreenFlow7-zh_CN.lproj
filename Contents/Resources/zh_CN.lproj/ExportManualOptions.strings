@@ -1,0 +1,21 @@
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "3Zh-WX-nRi"; */
+"3Zh-WX-nRi.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "ScreenFlow will pick the best compression settings for uploading to the Web."; ObjectID = "3ta-Bc-8yA"; */
+"3ta-Bc-8yA.title" = "选择 ScreenFlow 上传到网络的最佳压缩设置。";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "6NK-ab-8TH"; */
+"6NK-ab-8TH.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Customize..."; ObjectID = "dp1-ch-uKQ"; */
+"dp1-ch-uKQ.title" = "自定义...";
+
+/* Class = "NSButtonCell"; title = "Manage..."; ObjectID = "g5v-WM-Kr0"; */
+"g5v-WM-Kr0.title" = "管理...";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "hv1-4p-JkG"; */
+"hv1-4p-JkG.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "zUa-dY-2Lc"; */
+"zUa-dY-2Lc.title" = "预设：";
+

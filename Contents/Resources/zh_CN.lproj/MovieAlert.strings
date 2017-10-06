@@ -1,0 +1,12 @@
+/* Class = "NSTextFieldCell"; title = "Adding an Action to a clip enables you to modify the properties of your video or screen recording over a period of time"; ObjectID = "8"; */
+"8.title" = "当您向剪辑添加动作时，您可以随时更改视频和屏幕录制属性。";
+
+/* Class = "NSButtonCell"; title = "Do not show this message again"; ObjectID = "11"; */
+"11.title" = "下次不要显示此消息";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "13"; */
+"13.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "This example screencast shows you how to add a zoom and pan effect to your presentation by :\n\n1. Adding a Video Action\n2. Resizing and moving the Screen Recording"; ObjectID = "44"; */
+"44.title" = "在这个截屏示例中，我将向您展示如何向演示文稿添加缩放效果：\n\n1. 添加视频操作\n2. 更改/移动屏幕录制大小";
+

@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "T7g-Or-Uws"; */
+"T7g-Or-Uws.title" = "预设：";
+
+/* Class = "NSTextFieldCell"; title = "Timeline Framerate:"; ObjectID = "hoW-fO-Q6N"; */
+"hoW-fO-Q6N.title" = "帧率：";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "jJI-wF-NuU"; */
+"jJI-wF-NuU.title" = "高度：";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "mHa-yu-Qmd"; */
+"mHa-yu-Qmd.title" = "宽度：";
+
+/* Class = "NSTextFieldCell"; title = "fps"; ObjectID = "x22-Ng-FTa"; */
+"x22-Ng-FTa.title" = "fps";
+

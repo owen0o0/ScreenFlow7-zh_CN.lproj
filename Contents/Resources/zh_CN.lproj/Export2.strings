@@ -1,0 +1,69 @@
+/* Class = "NSTextFieldCell"; title = "Save As:"; ObjectID = "4PQ-GI-TIv"; */
+"4PQ-GI-TIv.title" = "另存为:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "9Wu-K5-jBf"; */
+"9Wu-K5-jBf.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Demo Mode - Exports will be watermarked"; ObjectID = "DC6-Zi-9ux"; */
+"DC6-Zi-9ux.title" = "演示模式 - 在导出中插入水印。";
+
+/* Class = "NSTextFieldCell"; title = "<<do not localize>>:"; ObjectID = "DOg-Hm-xFI"; */
+"DOg-Hm-xFI.title" = "<<do not localize>>:";
+
+/* Class = "NSMenuItem"; title = "Make Current Settings Default"; ObjectID = "E2U-i9-pCK"; */
+"E2U-i9-pCK.title" = "将当前修改设置为默认设置";
+
+/* Class = "NSButtonCell"; title = "Add Chapter Track from Markers"; ObjectID = "Fgg-ZL-9Fo"; */
+"Fgg-ZL-9Fo.title" = "从标记添加章节轨迹";
+
+/* Class = "NSButtonCell"; title = "Use Motion Blur"; ObjectID = "Gst-c6-j0a"; */
+"Gst-c6-j0a.title" = "运动模糊";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Check to add a captions track from the timeline captions to the finished movie file."; ObjectID = "LHr-qa-Vwl"; */
+"LHr-qa-Vwl.ibShadowedToolTip" = "点击将时间线标题的标题轨迹添加到已完成的影片文件。";
+
+/* Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "QrI-HP-hQK"; */
+"QrI-HP-hQK.title" = "选项：";
+
+/* Class = "NSTextFieldCell"; title = "Where:"; ObjectID = "WoD-lp-D03"; */
+"WoD-lp-D03.title" = "地点：";
+
+/* Class = "NSMenuItem"; title = "Reset to Factory Defaults"; ObjectID = "ai0-1L-zPX"; */
+"ai0-1L-zPX.title" = "重置为默认值";
+
+/* Class = "NSMenuItem"; title = "<do not localize>"; ObjectID = "bM5-Ap-sbA"; */
+"bM5-Ap-sbA.title" = "<do not localize>";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Sets the amount of motion blur on the exported video.  Heavy and Medium values will increase the amount of time it takes to complete an export."; ObjectID = "eiq-te-QSR"; */
+"eiq-te-QSR.ibShadowedToolTip" = "设置导出视频中的运动模糊量。 如果将值设置为 '强' 或 '中'，导出时间将更长。";
+
+/* Class = "NSMenuItem"; title = "Other..."; ObjectID = "fes-fH-F2v"; */
+"fes-fH-F2v.title" = "其他...";
+
+/* Class = "NSTextFieldCell"; title = "<<donotlocalize>>"; ObjectID = "kKk-W1-mgl"; */
+"kKk-W1-mgl.title" = "<<donotlocalize>>";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "kLC-LU-4cx"; */
+"kLC-LU-4cx.title" = "类型：";
+
+/* Class = "NSTextFieldCell"; title = "sampling"; ObjectID = "lqL-ap-lSG"; */
+"lqL-ap-lSG.title" = "取样";
+
+/* Class = "NSButtonCell"; title = "Add Captions Track"; ObjectID = "pm0-ck-su8"; */
+"pm0-ck-su8.title" = "添加字幕轨道";
+
+/* Class = "NSSegmentedCell"; sR6-CR-Zbc.ibShadowedLabels[0] = "Automatic"; ObjectID = "sR6-CR-Zbc"; */
+"sR6-CR-Zbc.ibShadowedLabels[0]" = "自动";
+
+/* Class = "NSSegmentedCell"; sR6-CR-Zbc.ibShadowedLabels[1] = "Manual"; ObjectID = "sR6-CR-Zbc"; */
+"sR6-CR-Zbc.ibShadowedLabels[1]" = "手动";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Optionally adds a chapter (quick navigation) track to the finished movie.  Chapter tracks are only supported for QuickTime exports, and require named markers to be present in the timeline."; ObjectID = "vDm-DI-Men"; */
+"vDm-DI-Men.ibShadowedToolTip" = "作为选项，添加一章（快速导航）轨迹到完成的电影。 仅支持导轨到QuickTime的章节轨迹，需要在时间轴上显示命名标记。";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "wRH-a1-XN2"; */
+"wRH-a1-XN2.title" = "标签";
+
+/* Class = "NSButtonCell"; title = "Export"; ObjectID = "zFz-rj-iU8"; */
+"zFz-rj-iU8.title" = "导出";
+

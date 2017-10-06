@@ -1,0 +1,51 @@
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "0h0-ym-S3i"; */
+"0h0-ym-S3i.title" = "收音机";
+
+/* Class = "NSButtonCell"; title = "Change..."; ObjectID = "0tp-vc-2dI"; */
+"0tp-vc-2dI.title" = "更改...";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "1CN-M8-4bX"; */
+"1CN-M8-4bX.title" = "收音机";
+
+/* Class = "NSTextFieldCell"; title = "Computer Audio:"; ObjectID = "2d7-oi-FfE"; */
+"2d7-oi-FfE.title" = "电脑音频：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects the capture disk to use for temporarily storing recordings. "; ObjectID = "5yp-fA-s3W"; */
+"5yp-fA-s3W.ibShadowedToolTip" = "选择要暂时保存录制的捕获磁盘。 ";
+
+/* Class = "NSButtonCell"; title = "Smooth"; ObjectID = "9Xd-d6-N8a"; */
+"9Xd-d6-N8a.title" = "平滑";
+
+/* Class = "NSButtonCell"; title = "Sharp"; ObjectID = "9rT-PP-trk"; */
+"9rT-PP-trk.title" = "锐利";
+
+/* Class = "NSTextFieldCell"; title = "Video Magnification:"; ObjectID = "F4P-3X-ug6"; */
+"F4P-3X-ug6.title" = "视频扩展：";
+
+/* Class = "NSTextFieldCell"; title = "do not localize this..............."; ObjectID = "GXZ-9P-pfj"; */
+"GXZ-9P-pfj.title" = "do not localize this...............";
+
+/* Class = "NSTextFieldCell"; title = "Use when exporting with Lossless preset.\nFor all other export presets, use Adaptive.\n"; ObjectID = "Gfb-5c-CFq"; */
+"Gfb-5c-CFq.title" = "用无损预设输出时使用 '无损' 。\n对于其他导出预设，请使用 '适应' 。\n";
+
+/* Class = "NSTextFieldCell"; title = "Capture Scratch Disk:"; ObjectID = "Pmu-uS-8LI"; */
+"Pmu-uS-8LI.title" = "捕获磁盘：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Install / Uninstall the Telestream Audio Driver.  This driver is required if you'd like to record the Computer audio.  The driver is only active when you are recording."; ObjectID = "RZ6-Zr-Kix"; */
+"RZ6-Zr-Kix.ibShadowedToolTip" = "安装/卸载Telestream音频驱动程序。 此驱动程序是从计算机录制音频所必需的。 此驱动程序仅在录制时有效。";
+
+/* Class = "NSButtonCell"; title = "Lossless"; ObjectID = "cWp-SG-Dvg"; */
+"cWp-SG-Dvg.title" = "无损";
+
+/* Class = "NSMatrix"; ibShadowedToolTip = "When zooming an image up, this option specifies whether the image will look sharp (blockly) or smooth (blurry)."; ObjectID = "hAz-xv-hUd"; */
+"hAz-xv-hUd.ibShadowedToolTip" = "您可以使用此选项来控制在放大图像时图像是否锐化（模糊）或平滑（模糊）。";
+
+/* Class = "NSTextFieldCell"; title = "Screen Recording Compression:"; ObjectID = "pDW-cp-Qad"; */
+"pDW-cp-Qad.title" = "屏幕录制压缩：";
+
+/* Class = "NSMatrix"; ibShadowedToolTip = "Selects the screen recording method."; ObjectID = "paS-YB-Iwz"; */
+"paS-YB-Iwz.ibShadowedToolTip" = "选择屏幕录制方式。";
+
+/* Class = "NSButtonCell"; title = "Adaptive"; ObjectID = "tkq-Ox-oF4"; */
+"tkq-Ox-oF4.title" = "适应";
+

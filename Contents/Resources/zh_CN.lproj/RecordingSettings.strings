@@ -1,0 +1,54 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Sets or removes the timer for the next recording."; ObjectID = "1Rl-d7-Ubo"; */
+"1Rl-d7-Ubo.ibShadowedToolTip" = "设置或删除下一次录制的定时器。";
+
+/* Class = "NSButtonCell"; title = "Record Desktop from:"; ObjectID = "3LH-sh-Y4r"; */
+"3LH-sh-Y4r.title" = "录制桌面来自：";
+
+/* Class = "NSButtonCell"; title = "Record Video from:"; ObjectID = "3i5-m0-Uvq"; */
+"3i5-m0-Uvq.title" = "录制视频来自：";
+
+/* Class = "NSButtonCell"; title = "Record Audio from:"; ObjectID = "4jX-qm-fKi"; */
+"4jX-qm-fKi.title" = "录制音频来自：";
+
+/* Class = "NSTextFieldCell"; title = "minutes"; ObjectID = "6xm-ll-kFV"; */
+"6xm-ll-kFV.title" = "分钟";
+
+/* Class = "NSButton"; ibShadowedToolTip = "iOS recording captures both audio & video."; ObjectID = "BNp-F2-F3W"; */
+"BNp-F2-F3W.ibShadowedToolTip" = "音频和视频都在iOS录制中捕获。";
+
+/* Class = "NSTextFieldCell"; title = "hours"; ObjectID = "F1Q-ND-sKP"; */
+"F1Q-ND-sKP.title" = "时间";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "iOS recording captures both audio & video."; ObjectID = "P69-WL-fYi"; */
+"P69-WL-fYi.ibShadowedToolTip" = "音频和视频都在iOS录制中捕获。";
+
+/* Class = "NSTextFieldCell"; title = "minutes"; ObjectID = "R9H-oA-ZhC"; */
+"R9H-oA-ZhC.title" = "分钟";
+
+/* Class = "NSTextFieldCell"; title = "Record Desktop Framerate:"; ObjectID = "YBA-zT-kDm"; */
+"YBA-zT-kDm.title" = "记录桌面帧速率：";
+
+/* Class = "NSButtonCell"; title = "Record in loop for:"; ObjectID = "YRP-XM-30w"; */
+"YRP-XM-30w.title" = "循环记录时间：";
+
+/* Class = "NSTextFieldCell"; title = "Timeline Framerate:"; ObjectID = "aPK-AO-o27"; */
+"aPK-AO-o27.title" = "时间线帧速率：";
+
+/* Class = "NSTextFieldCell"; title = "Stop recording after:"; ObjectID = "boX-7c-hRm"; */
+"boX-7c-hRm.title" = "停止录象的时间：";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "eoV-gO-Sa2"; */
+"eoV-gO-Sa2.title" = "格式：";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "hUl-5P-1zs"; */
+"hUl-5P-1zs.title" = "秒";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "lP8-gK-1vj"; */
+"lP8-gK-1vj.title" = "按键";
+
+/* Class = "NSButtonCell"; title = "Record Computer Audio"; ObjectID = "pWg-WH-oT6"; */
+"pWg-WH-oT6.title" = "记录计算机音频";
+
+/* Class = "NSButtonCell"; title = "Record iOS Device:"; ObjectID = "wQI-s1-xm0"; */
+"wQI-s1-xm0.title" = "记录iOS设备：";
+

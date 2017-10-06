@@ -1,0 +1,48 @@
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "BGo-MH-hFa"; */
+"BGo-MH-hFa.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "H6G-WF-Rbh"; */
+"H6G-WF-Rbh.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "I3o-HA-0FI"; */
+"I3o-HA-0FI.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "Qt5-bL-D64"; */
+"Qt5-bL-D64.title" = "默认";
+
+/* Class = "NSTextFieldCell"; title = "Show:"; ObjectID = "QzC-t1-3KW"; */
+"QzC-t1-3KW.title" = "显示：";
+
+/* Class = "NSTextFieldCell"; title = "Keyboard Shortcut Set:"; ObjectID = "RlP-Ys-NAs"; */
+"RlP-Ys-NAs.title" = "快捷键设置：";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "RpH-Ag-rHE"; */
+"RpH-Ag-rHE.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "All"; ObjectID = "Z2U-4o-jZV"; */
+"Z2U-4o-jZV.title" = "所有";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "cNO-vi-pnE"; */
+"cNO-vi-pnE.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Customized"; ObjectID = "cjF-MK-Cha"; */
+"cjF-MK-Cha.title" = "自定义";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "jd5-MS-Wui"; */
+"jd5-MS-Wui.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Conflicits"; ObjectID = "kBw-5G-f2j"; */
+"kBw-5G-f2j.title" = "冲突";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayName = "predicate"; ObjectID = "kcl-KF-64Y"; */
+"kcl-KF-64Y.ibShadowedDisplayName" = "predicate";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rfE-dV-bQW"; */
+"rfE-dV-bQW.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Default Shortcut:"; ObjectID = "tRW-TE-jZr"; */
+"tRW-TE-jZr.title" = "默认快捷方式";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wbw-Hx-zzT"; */
+"wbw-Hx-zzT.title" = "Text Cell";
+

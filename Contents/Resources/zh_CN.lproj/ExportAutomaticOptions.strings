@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Fastest"; ObjectID = "GO1-1d-HTN"; */
+"GO1-1d-HTN.title" = "最快的";
+
+/* Class = "NSTextFieldCell"; title = "do not localize"; ObjectID = "Yr2-0N-gXP"; */
+"Yr2-0N-gXP.title" = "do not localize";
+
+/* Class = "NSButtonCell"; title = "Slowest"; ObjectID = "g3K-nN-OZx"; */
+"g3K-nN-OZx.title" = "最慢的";
+
+/* Class = "NSButtonCell"; title = "Normal"; ObjectID = "g87-5O-gcf"; */
+"g87-5O-gcf.title" = "标准";
+
+/* Class = "NSTextFieldCell"; title = "Encoding Quality:"; ObjectID = "zUa-dY-2Lc"; */
+"zUa-dY-2Lc.title" = "编码质量：";
+

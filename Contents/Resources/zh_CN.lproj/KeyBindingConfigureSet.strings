@@ -1,0 +1,12 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1qw-qc-Ng0"; */
+"1qw-qc-Ng0.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "ezW-U9-0F4"; */
+"ezW-U9-0F4.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fDx-C7-KH0"; */
+"fDx-C7-KH0.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "vsd-4c-ia3"; */
+"vsd-4c-ia3.title" = "取消";
+

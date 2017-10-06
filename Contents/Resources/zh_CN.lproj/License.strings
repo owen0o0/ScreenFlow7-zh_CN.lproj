@@ -1,0 +1,21 @@
+/* Class = "NSButtonCell"; title = "Activate"; ObjectID = "CFY-Yx-t8Q"; */
+"CFY-Yx-t8Q.title" = "激活";
+
+/* Class = "NSButtonCell"; title = "Purchase..."; ObjectID = "GEs-vS-5Wh"; */
+"GEs-vS-5Wh.title" = "购买...";
+
+/* Class = "NSButtonCell"; title = "Deactivate"; ObjectID = "UgL-3M-KxK"; */
+"UgL-3M-KxK.title" = "取消激活";
+
+/* Class = "NSTextFieldCell"; title = "<<do not localize>>"; ObjectID = "YqN-ki-6Bf"; */
+"YqN-ki-6Bf.title" = "<<do not localize>>";
+
+/* Class = "NSTextFieldCell"; title = "<<do not localize>>"; ObjectID = "cZh-qo-HlR"; */
+"cZh-qo-HlR.title" = "<<do not localize>>";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter your serial number here"; ObjectID = "rD3-6N-CHW"; */
+"rD3-6N-CHW.placeholderString" = "请在此输入序列号";
+
+/* Class = "NSTextFieldCell"; title = "Serial Number:"; ObjectID = "taR-UM-4O0"; */
+"taR-UM-4O0.title" = "序列号：";
+

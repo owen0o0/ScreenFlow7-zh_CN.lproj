@@ -1,0 +1,6 @@
+/* Class = "NSButtonCell"; title = "Show Start & End States"; ObjectID = "IpT-j9-cKg"; */
+"IpT-j9-cKg.title" = "显示开始/结束状态";
+
+/* Class = "NSButtonCell"; title = "Show Interpolated State"; ObjectID = "LCd-fK-zOi"; */
+"LCd-fK-zOi.title" = "显示完成状态";
+

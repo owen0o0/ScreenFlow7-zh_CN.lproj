@@ -1,0 +1,72 @@
+/* Class = "NSButtonCell"; title = "Automatic"; ObjectID = "8FC-wT-ixI"; */
+"8FC-wT-ixI.title" = "自动";
+
+/* Class = "NSTextFieldCell"; title = "kbits/sec"; ObjectID = "67"; */
+"67.title" = "kbits／秒";
+
+/* Class = "NSTextFieldCell"; title = "Datarate:"; ObjectID = "68"; */
+"68.title" = "数据速率：";
+
+/* Class = "NSTextFieldCell"; title = "kHz"; ObjectID = "71"; */
+"71.title" = "kHz";
+
+/* Class = "NSTextFieldCell"; title = "Sample rate:"; ObjectID = "72"; */
+"72.title" = "采样率：";
+
+/* Class = "NSTextFieldCell"; title = "kbits/sec"; ObjectID = "74"; */
+"74.title" = "kbits／秒";
+
+/* Class = "NSTextFieldCell"; title = "fps"; ObjectID = "75"; */
+"75.title" = "fps";
+
+/* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "76"; */
+"76.title" = "简介：";
+
+/* Class = "NSTextFieldCell"; title = "Datarate:"; ObjectID = "77"; */
+"77.title" = "数据速率：";
+
+/* Class = "NSTextFieldCell"; title = "Framerate:"; ObjectID = "78"; */
+"78.title" = "帧速率：";
+
+/* Class = "NSButtonCell"; title = "AAC Audio"; ObjectID = "79"; */
+"79.title" = "AAC音频";
+
+/* Class = "NSButtonCell"; title = "H.264 Video"; ObjectID = "80"; */
+"80.title" = "H.264视频";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "82"; */
+"82.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "122"; */
+"122.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Channels:"; ObjectID = "AN9-o8-GRh"; */
+"AN9-o8-GRh.title" = "频道：";
+
+/* Class = "NSTextFieldCell"; title = "Codec:"; ObjectID = "Ku4-kT-trc"; */
+"Ku4-kT-trc.title" = "编解码器";
+
+/* Class = "NSTextFieldCell"; title = "frames"; ObjectID = "PYe-Xl-JIs"; */
+"PYe-Xl-JIs.title" = "帧";
+
+/* Class = "NSButtonCell"; title = "Hardware Accelerated Apple H.264"; ObjectID = "Qqc-th-zZs"; */
+"Qqc-th-zZs.title" = "硬件加速 Apple H.264";
+
+/* Class = "NSTextFieldCell"; title = "Keyframe Rate:"; ObjectID = "WUi-YL-C7G"; */
+"WUi-YL-C7G.title" = "关键帧速率：";
+
+/* Class = "NSButtonCell"; title = "Stereo"; ObjectID = "XMB-ie-gZA"; */
+"XMB-ie-gZA.title" = "立体声";
+
+/* Class = "NSButtonCell"; title = "Fixed every"; ObjectID = "ZPf-ht-Saq"; */
+"ZPf-ht-Saq.title" = "固定：";
+
+/* Class = "NSButtonCell"; title = "Single-pass x264"; ObjectID = "xAu-oF-qbq"; */
+"xAu-oF-qbq.title" = "一次执行 x264";
+
+/* Class = "NSButtonCell"; title = "Multi-pass x264"; ObjectID = "y5Y-ur-b3Q"; */
+"y5Y-ur-b3Q.title" = "多次运行 x264";
+
+/* Class = "NSButtonCell"; title = "Mono"; ObjectID = "zzX-Ng-MP1"; */
+"zzX-Ng-MP1.title" = "单声道";
+

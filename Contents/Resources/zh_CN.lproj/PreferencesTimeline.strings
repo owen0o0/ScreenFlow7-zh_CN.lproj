@@ -1,0 +1,81 @@
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The default transition to use when creating new transitions in the timeline."; ObjectID = "3"; */
+"3.ibShadowedToolTip" = "在时间轴中创建新转场时使用的默认转场。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5"; */
+"5.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Default Transition:"; ObjectID = "9"; */
+"9.title" = "默认转场：";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The default height to use for new tracks in the timeline."; ObjectID = "18"; */
+"18.ibShadowedToolTip" = "用于时间轴中新轨迹的默认高度。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "20"; */
+"20.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Small"; ObjectID = "21"; */
+"21.title" = "小";
+
+/* Class = "NSMenuItem"; title = "Regular"; ObjectID = "22"; */
+"22.title" = "标准";
+
+/* Class = "NSMenuItem"; title = "Large"; ObjectID = "23"; */
+"23.title" = "大";
+
+/* Class = "NSTextFieldCell"; title = "Default Track Height:"; ObjectID = "24"; */
+"24.title" = "默认轨道高度：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Use SMPTE formatted timecode for all places where a time is displayed"; ObjectID = "30"; */
+"30.ibShadowedToolTip" = "在显示时间轴的所有地方使用 SMPTE 格式的时间码";
+
+/* Class = "NSTextFieldCell"; title = "Display:"; ObjectID = "32"; */
+"32.title" = "显示：";
+
+/* Class = "NSButtonCell"; title = "Use SMPTE timecode"; ObjectID = "33"; */
+"33.title" = "使用 SMPTE 时间码                             ";
+
+/* Class = "NSTextFieldCell"; title = "Default Durations:"; ObjectID = "86"; */
+"86.title" = "默认长度：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "92"; */
+"92.headerCell.title" = "类型";
+
+/* Class = "NSTableColumn"; headerCell.title = "Duration"; ObjectID = "93"; */
+"93.headerCell.title" = "长度";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "95"; */
+"95.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "96"; */
+"96.title" = "文本";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When checked, the action menu icons will no longer appear when moving the mouse over clips in the timeline."; ObjectID = "172"; */
+"172.ibShadowedToolTip" = "选中此复选框后，即使将鼠标指针移动到时间轴中的剪辑上，操作菜单的图标将消失。";
+
+/* Class = "NSButtonCell"; title = "Hide action menu overlay in clips"; ObjectID = "173"; */
+"173.title" = "剪辑动作菜单隐藏叠加";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When checked, clip audio waveform overlays will draw both the left & right stereo channels."; ObjectID = "176"; */
+"176.ibShadowedToolTip" = "选中此复选框后，即使将鼠标指针移动到时间轴中的剪辑上，操作菜单的图标将消失。";
+
+/* Class = "NSButtonCell"; title = "Show stereo audio waveforms"; ObjectID = "177"; */
+"177.title" = "显示立体声音频波形";
+
+/* Class = "NSTextFieldCell"; title = "Editing:"; ObjectID = "S8o-gW-jAs"; */
+"S8o-gW-jAs.title" = "编辑：";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The default curve type for new actions."; ObjectID = "bRW-em-DAg"; */
+"bRW-em-DAg.ibShadowedToolTip" = "新操作的默认曲线类型。";
+
+/* Class = "NSTextFieldCell"; title = "Default Action Curve:"; ObjectID = "dOY-aV-xGx"; */
+"dOY-aV-xGx.title" = "默认动作曲线：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Use SMPTE formatted timecode for all places where a time is displayed"; ObjectID = "vWj-vv-D6D"; */
+"vWj-vv-D6D.ibShadowedToolTip" = "在显示时间轴的所有地方使用 SMPTE 格式的时间码";
+
+/* Class = "NSButtonCell"; title = "Reposition scrubber after pasting"; ObjectID = "zPP-kT-3La"; */
+"zPP-kT-3La.title" = "粘贴后再重置滑块";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "zeE-JG-Sj7"; */
+"zeE-JG-Sj7.title" = "OtherViews";
+

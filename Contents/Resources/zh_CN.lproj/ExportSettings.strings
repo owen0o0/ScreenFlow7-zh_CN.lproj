@@ -1,0 +1,105 @@
+/* Class = "NSButtonCell"; title = "Save copy to disk"; ObjectID = "2Od-gf-WPC"; */
+"2Od-gf-WPC.title" = "将副本保存到磁盘";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Check to add a captions track from the timeline captions to the finished movie file."; ObjectID = "326"; */
+"326.ibShadowedToolTip" = "点击将时间线标题的标题轨迹添加到已完成的影片文件。";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "manage"; ObjectID = "329"; */
+"329.ibExternalAccessibilityHelp" = "管理";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Manage & further customize the list of codec presets."; ObjectID = "329"; */
+"329.ibShadowedToolTip" = "管理编解码器预设列表，并进一步自定义。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Optionally adds a chapter (quick navigation) track to the finished movie.  Chapter tracks are only supported for QuickTime exports, and require named markers to be present in the timeline."; ObjectID = "331"; */
+"331.ibShadowedToolTip" = "作为选项，添加一章（快速导航）轨迹到完成的电影。 仅支持导轨到QuickTime的章节轨迹，需要在时间轴上显示命名标记。";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "customize"; ObjectID = "335"; */
+"335.ibExternalAccessibilityHelp" = "自定义";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select a codec or change the codec settings."; ObjectID = "335"; */
+"335.ibShadowedToolTip" = "请选择编解码器或更改编解码设置。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, Motion Blur will be used on the output.  This will make the output very high quality when you have used Video Actions to rotate or move clips."; ObjectID = "338"; */
+"338.ibShadowedToolTip" = "选中此复选框后，将用于输出运动模糊。 当您使用视频操作旋转或移动剪辑时，这将提供非常高质量的输出。";
+
+/* Class = "NSMatrix"; ibExternalAccessibilityHelp = "dimensions"; ObjectID = "341"; */
+"341.ibExternalAccessibilityHelp" = "尺寸";
+
+/* Class = "NSMatrix"; ibShadowedToolTip = "Allows you to scale the resulting movie size.   ScreenFlow uses an extremely high quality scaling algorithm to create the highest quality scaled output."; ObjectID = "341"; */
+"341.ibShadowedToolTip" = "您可以缩放所得电影的大小。 ScreenFlow使用非常高质量的缩放算法创建高质量的缩放输出。";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The preset to use for the export.  You can modify the preset by pressing the 'Customize...' button."; ObjectID = "344"; */
+"344.ibShadowedToolTip" = "用于导出的预设。 您可以通过单击 '自定义' 按钮更改预设。";
+
+/* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "346"; */
+"346.title" = "预设：";
+
+/* Class = "NSMenuItem"; title = "<do not localize>"; ObjectID = "349"; */
+"349.title" = "<do not localize>";
+
+/* Class = "NSButtonCell"; title = "Scale by"; ObjectID = "353"; */
+"353.title" = "放大倍率：";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityHelp = "custom scale"; ObjectID = "354"; */
+"354.ibExternalAccessibilityHelp" = "自定义缩放";
+
+/* Class = "NSButtonCell"; title = "Scale to custom size"; ObjectID = "354"; */
+"354.title" = "缩放到自定义大小";
+
+/* Class = "NSTextFieldCell"; title = "to %{value1}@"; ObjectID = "355"; */
+"355.title" = "（%{value1}@）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Will insert black around the edges of the output to ensure that the content maintains its aspect ratio.  This is important if the width/height you have entered is not the same ratio as the canvas width/height."; ObjectID = "356"; */
+"356.ibShadowedToolTip" = "在输出边缘插入一个黑色区域，以保持内容的宽高比。 当输入宽/高比与画布宽/高比不同时，此功能很重要。";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "361"; */
+"361.title" = "宽度：";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "362"; */
+"362.title" = "高度：";
+
+/* Class = "NSButtonCell"; title = "Letterbox Content"; ObjectID = "365"; */
+"365.title" = "信箱";
+
+/* Class = "NSButtonCell"; title = "Use Motion Blur"; ObjectID = "366"; */
+"366.title" = "运动模糊";
+
+/* Class = "NSTextFieldCell"; title = "Dimensions:"; ObjectID = "367"; */
+"367.title" = "尺寸：";
+
+/* Class = "NSTextFieldCell"; title = "H.264 multi-pass video encoding at 200 k/bit per second.  AAC, 44100 (not localized)"; ObjectID = "368"; */
+"368.title" = "200 k/bit H.264 多路视频编码。AAC, 44100（未本地化）";
+
+/* Class = "NSButtonCell"; title = "Customize..."; ObjectID = "369"; */
+"369.title" = "自定义...";
+
+/* Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "370"; */
+"370.title" = "选项：";
+
+/* Class = "NSComboBoxCell"; title = "100%"; ObjectID = "371"; */
+"371.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "(Unsupported on this GPU)"; ObjectID = "372"; */
+"372.title" = "（此GPU不支持）";
+
+/* Class = "NSButtonCell"; title = "Add Chapter Track from Markers"; ObjectID = "373"; */
+"373.title" = "从标记添加章节轨迹";
+
+/* Class = "NSButtonCell"; title = "Manage..."; ObjectID = "375"; */
+"375.title" = "管理...";
+
+/* Class = "NSButtonCell"; title = "DEBUG"; ObjectID = "376"; */
+"376.title" = "调试转储";
+
+/* Class = "NSButtonCell"; title = "Add Captions Track"; ObjectID = "389"; */
+"389.title" = "添加字幕轨道";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "to %{value1}@"; ObjectID = "452"; */
+"452.ibShadowedDisplayPattern" = "（%{value1}@）";
+
+/* Class = "NSButtonCell"; title = "Location..."; ObjectID = "sVS-vL-Cuq"; */
+"sVS-vL-Cuq.title" = "位置...";
+
+/* Class = "NSTextFieldCell"; title = "Media File:"; ObjectID = "y4l-ml-IFN"; */
+"y4l-ml-IFN.title" = "媒体文件：";
+
